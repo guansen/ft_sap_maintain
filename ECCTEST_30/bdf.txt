@@ -8,9 +8,9 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/ftd_sap  5242880 2830310 2261883   56% /usr/sap/FTD
 /dev/vg00/lvol4    5242880 4023024 1211528   77% /tmp
 /dev/vg00/ftq_sapmnt
-                   5242880 2709663 2376456   53% /sapmnt/FTQ
+                   5242880 2709664 2376455   53% /sapmnt/FTQ
 /dev/vg00/ftd_sapmnt
-                   5242880 2692122 2392497   53% /sapmnt/FTD
+                   5242880 2692123 2392496   53% /sapmnt/FTD
 /dev/vg00/ftd_oracle
                    6684672 4043285 2488046   62% /oracle
 /dev/vg00/ftd_stage_102_64

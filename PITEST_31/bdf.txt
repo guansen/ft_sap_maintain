@@ -9,7 +9,7 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/pid_sap  10485760 7242065 3041487   70% /usr/sap/PID
 /dev/vg00/lvol4    5242880 4313240  923352   82% /tmp
 /dev/vg00/piq_sapmnt
-                   10485760 3604911 6450881   36% /sapmnt/PIQ
+                   10485760 3604916 6450876   36% /sapmnt/PIQ
 /dev/vg00/pid_sapmnt
                    10485760 4164924 5925880   41% /sapmnt/PID
 /dev/vg00/oracle   15728640 12880244 2670372   83% /oracle
