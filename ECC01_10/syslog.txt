@@ -3640,3 +3640,41 @@ Sep 28 13:21:24 SAPECC01 inetd[1518]: omni/tcp: Deleted service
 Sep 28 13:21:24 SAPECC01 inetd[1518]: Configuration complete
 Sep 28 13:21:50 SAPECC01 sshd[8851]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5060;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 13:21:50 SAPECC01 sshd[8851]: Accepted publickey for root from 10.11.22.226 port 5060 ssh2
+Sep 28 13:21:24 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 13:21:53 SAPECC01 sshd[8851]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5060;IN: 912;OUT: 176;Duration: 2.5;tPut_in: 369.8;tPut_out: 71.4
+Sep 28 13:21:24 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 13:21:53 SAPECC01 sshd[8870]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5097;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 13:21:53 SAPECC01 sshd[8870]: Accepted publickey for root from 10.11.22.226 port 5097 ssh2
+Sep 28 13:21:54 SAPECC01 sshd[8870]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5097;IN: 875856;OUT: 896;Duration: 0.8;tPut_in: 1117498.1;tPut_out: 1143.2
+Sep 28 14:36:20 SAPECC01 ftpd[15725]: Data port : 20
+Sep 28 14:36:20 SAPECC01 ftpd[15725]: FTP server (Revision 5.0 Version wuftpd-2.6.1 Thu Apr 29 06:48:40 GMT 2010) ready.
+Sep 28 14:36:24 SAPECC01 ftpd[15725]: FTP LOGIN FROM 10.11.53.31 [10.11.53.31], root
+Sep 28 14:54:58 SAPECC01 ftpd[15725]: User root timed out after 900 seconds at Sun Sep 28 14:54:58 2014
+Sep 28 14:55:00 SAPECC01 ftpd[15725]: FTP session closed
+Sep 28 14:55:49 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 14:55:49 SAPECC01 inetd[1518]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Sep 28 14:55:49 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 14:55:49 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 15:00:12 SAPECC01  above message repeats 2 times
+Sep 28 14:55:49 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 15:00:12 SAPECC01  above message repeats 2 times
+Sep 28 16:00:28 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 16:00:28 SAPECC01 inetd[1518]: omni/tcp: Deleted service
+Sep 28 16:00:28 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 16:07:03 SAPECC01 inetd[1518]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Sep 28 16:07:03 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 16:20:13 SAPECC01  above message repeats 5 times
+Sep 28 16:07:03 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 16:20:13 SAPECC01  above message repeats 5 times
+Sep 28 16:37:28 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 16:37:28 SAPECC01 inetd[1518]: omni/tcp: Deleted service
+Sep 28 16:37:28 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 16:43:17 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 16:43:17 SAPECC01 inetd[1518]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Sep 28 16:43:17 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 16:52:18 SAPECC01 inetd[1518]: Rereading configuration
+Sep 28 17:00:13 SAPECC01  above message repeats 5 times
+Sep 28 16:52:18 SAPECC01 inetd[1518]: Configuration complete
+Sep 28 17:00:13 SAPECC01  above message repeats 5 times
+Sep 28 17:16:50 SAPECC01 sshd[10827]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8409;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 17:16:50 SAPECC01 sshd[10827]: Accepted publickey for root from 10.11.22.226 port 8409 ssh2

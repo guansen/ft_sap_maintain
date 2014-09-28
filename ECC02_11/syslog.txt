@@ -462,3 +462,25 @@ Sep 28 12:52:09 SAPECC02 sshd[18054]: Accepted publickey for root from 10.11.22.
 Sep 28 12:52:09 SAPECC02 sshd[18054]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-4152;IN: 51824;OUT: 320;Duration: 0.1;tPut_in: 358182.6;tPut_out: 2211.7
 Sep 28 12:57:10 SAPECC02 sshd[18063]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5258;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 12:57:10 SAPECC02 sshd[18063]: Accepted publickey for root from 10.11.22.226 port 5258 ssh2
+Sep 28 12:57:10 SAPECC02 sshd[18063]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5258;IN: 960;OUT: 176;Duration: 0.2;tPut_in: 6123.1;tPut_out: 1122.6
+Sep 28 12:57:10 SAPECC02 sshd[18082]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5291;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 12:57:11 SAPECC02 sshd[18082]: Accepted publickey for root from 10.11.22.226 port 5291 ssh2
+Sep 28 12:57:11 SAPECC02 sshd[18082]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5291;IN: 62112;OUT: 320;Duration: 0.2;tPut_in: 269349.7;tPut_out: 1387.7
+Sep 28 12:59:48 SAPECC02 inetd[1431]: Rereading configuration
+Sep 28 12:59:48 SAPECC02 inetd[1431]: omni/tcp: Deleted service
+Sep 28 12:59:48 SAPECC02 inetd[1431]: Configuration complete
+Sep 28 12:59:48 SAPECC02 inetd[1431]: Rereading configuration
+Sep 28 12:59:48 SAPECC02 inetd[1431]: Configuration complete
+Sep 28 14:33:51 SAPECC02 inetd[1431]: Rereading configuration
+Sep 28 14:33:51 SAPECC02 inetd[1431]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Sep 28 14:33:51 SAPECC02 inetd[1431]: Configuration complete
+Sep 28 15:28:25 SAPECC02 inetd[1431]: Rereading configuration
+Sep 28 15:28:25 SAPECC02 inetd[1431]: omni/tcp: Deleted service
+Sep 28 15:28:25 SAPECC02 inetd[1431]: Configuration complete
+Sep 28 15:28:25 SAPECC02 inetd[1431]: Rereading configuration
+Sep 28 15:28:25 SAPECC02 inetd[1431]: Configuration complete
+Sep 28 16:34:42 SAPECC02 inetd[1431]: Rereading configuration
+Sep 28 16:34:42 SAPECC02 inetd[1431]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Sep 28 16:34:42 SAPECC02 inetd[1431]: Configuration complete
+Sep 28 16:52:10 SAPECC02 sshd[22495]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8601;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 16:52:10 SAPECC02 sshd[22495]: Accepted publickey for root from 10.11.22.226 port 8601 ssh2

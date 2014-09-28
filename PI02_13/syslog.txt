@@ -422,3 +422,11 @@ Sep 28 13:34:49 SAPPI02 sshd[27428]: Accepted publickey for root from 10.11.22.2
 Sep 28 13:34:49 SAPPI02 sshd[27428]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-4632;IN: 51824;OUT: 320;Duration: 0.2;tPut_in: 255368.5;tPut_out: 1576.8
 Sep 28 13:39:49 SAPPI02 sshd[27496]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5764;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 13:39:49 SAPPI02 sshd[27496]: Accepted publickey for root from 10.11.22.226 port 5764 ssh2
+Sep 28 13:39:51 SAPPI02 sshd[27496]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5764;IN: 960;OUT: 176;Duration: 1.3;tPut_in: 733.7;tPut_out: 134.5
+Sep 28 13:39:51 SAPPI02 sshd[27521]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5797;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 13:39:51 SAPPI02 sshd[27521]: Accepted publickey for root from 10.11.22.226 port 5797 ssh2
+Sep 28 13:39:51 SAPPI02 sshd[27521]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5797;IN: 51824;OUT: 320;Duration: 0.2;tPut_in: 230616.9;tPut_out: 1424.0
+Sep 28 17:27:26 SAPPI02 inetd[1524]: Rereading configuration
+Sep 28 17:27:26 SAPPI02 inetd[1524]: Configuration complete
+Sep 28 17:34:57 SAPPI02 sshd[212]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9086;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 17:34:57 SAPPI02 sshd[212]: Accepted publickey for root from 10.11.22.226 port 9086 ssh2
