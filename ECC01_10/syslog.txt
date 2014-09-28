@@ -3678,3 +3678,9 @@ Sep 28 16:52:18 SAPECC01 inetd[1518]: Configuration complete
 Sep 28 17:00:13 SAPECC01  above message repeats 5 times
 Sep 28 17:16:50 SAPECC01 sshd[10827]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8409;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 17:16:50 SAPECC01 sshd[10827]: Accepted publickey for root from 10.11.22.226 port 8409 ssh2
+Sep 28 17:16:53 SAPECC01 sshd[10827]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-8409;IN: 960;OUT: 176;Duration: 2.8;tPut_in: 341.8;tPut_out: 62.7
+Sep 28 17:16:53 SAPECC01 sshd[10848]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8446;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 17:16:53 SAPECC01 sshd[10848]: Accepted publickey for root from 10.11.22.226 port 8446 ssh2
+Sep 28 17:16:54 SAPECC01 sshd[10848]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-8446;IN: 875856;OUT: 896;Duration: 0.8;tPut_in: 1044179.8;tPut_out: 1068.2
+Sep 29 05:16:49 SAPECC01 sshd[17464]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-11438;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 29 05:16:49 SAPECC01 sshd[17464]: Accepted publickey for root from 10.11.22.226 port 11438 ssh2

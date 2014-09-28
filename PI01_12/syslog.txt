@@ -17310,3 +17310,9 @@ Sep 28 17:01:23 SAPPI01 inetd[1514]: Rereading configuration
 Sep 28 17:01:23 SAPPI01 inetd[1514]: Configuration complete
 Sep 28 17:11:43 SAPPI01 sshd[12190]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8687;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 17:11:44 SAPPI01 sshd[12190]: Accepted publickey for root from 10.11.22.226 port 8687 ssh2
+Sep 28 17:11:52 SAPPI01 sshd[12190]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-8687;IN: 960;OUT: 176;Duration: 8.3;tPut_in: 116.1;tPut_out: 21.3
+Sep 28 17:11:52 SAPPI01 sshd[12234]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8725;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 17:11:52 SAPPI01 sshd[12234]: Accepted publickey for root from 10.11.22.226 port 8725 ssh2
+Sep 28 17:11:55 SAPPI01 sshd[12234]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-8725;IN: 2791632;OUT: 2096;Duration: 2.8;tPut_in: 1010356.8;tPut_out: 758.6
+Sep 29 05:11:41 SAPPI01 sshd[18166]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-11710;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 29 05:11:41 SAPPI01 sshd[18166]: Accepted publickey for root from 10.11.22.226 port 11710 ssh2
