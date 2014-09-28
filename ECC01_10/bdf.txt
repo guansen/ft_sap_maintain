@@ -3,17 +3,17 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/lvol1    1835008  530672 1294192   29% /stand
 /dev/vg00/lvol8    8912896 2814096 6056744   32% /var
 /dev/vg00/lvol7    6389760 3153480 3211056   50% /usr
-/dev/vg00/lvol9    15728640 2534210 12369890   17% /usr/sap/FTP
+/dev/vg00/lvol9    15728640 2537763 12366559   17% /usr/sap/FTP
 /dev/vg00/lvol4    5242880 2660496 2562440   51% /tmp
 /dev/vg00/lvol6    9437184 6967112 2450832   74% /opt
 /dev/vg00/lvol5     131072    8232  121984    6% /home
 10.11.51.30:/usr/sap/trans
                    20971520 15061966 5540307   73% /usr/sap/trans
 /dev/vgdata/oracle  229376    6311  209247    3% /oracle
-/dev/vgdata/ftp    5242880 1019650 3965113   20% /oracle/FTP
+/dev/vgdata/ftp    5242880 1019651 3965111   20% /oracle/FTP
 /dev/vgdata/ascs11 5242880  322792 4612691    7% /usr/sap/FTP/ASCS11
 /dev/vgdata/ex_sapmnt
-                   10485760 4084511 6009709   40% /export/sapmnt/FTP
+                   10485760 4084522 6009697   40% /export/sapmnt/FTP
 /dev/vglog/oraarch 52428800 25064122 25654715   49% /oracle/FTP/oraarch
 /dev/vglog/origlogA
                    2097152  128072 1846019    6% /oracle/FTP/origlogA
@@ -25,7 +25,7 @@ Filesystem          kbytes    used   avail %used Mounted on
                    2097152  427612 1565200   21% /oracle/FTP/mirrlogB
 /dev/vgdata/client  327680  114429  199927   36% /oracle/client
 /dev/vgdata/102_64 10485760 4859334 5274781   48% /oracle/stage/102_64
-/dev/vgdata/ftp102 10485760 3775191 6291753   38% /oracle/FTP/102_64
+/dev/vgdata/ftp102 10485760 3777239 6289833   38% /oracle/FTP/102_64
 /dev/vgdata/sapdata1
                    655360000 103208204 517642311   17% /oracle/FTP/sapdata1
 /dev/vgdata/sapdata2
