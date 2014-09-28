@@ -1,0 +1,12 @@
+
+CLUSTER        STATUS       
+PI_cluster     up           
+  
+  NODE           STATUS       STATE        
+  SAPPI01        up           running      
+
+    PACKAGE        STATUS           STATE            AUTO_RUN    NODE        
+    PIpkg          up               running          enabled     SAPPI01     
+  
+  NODE           STATUS       STATE        
+  SAPPI02        up           running      

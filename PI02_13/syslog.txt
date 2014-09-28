@@ -1,0 +1,391 @@
+Aug 28 09:59:04 SAPPI02 syslogd: restart
+Aug 28 09:59:04 SAPPI02 vmunix: 
+Aug 28 09:59:04 SAPPI02 vmunix: MFS is defined: base= 0xe0000001022a6000  size= 46648 KB
+Aug 28 09:59:04 SAPPI02 vmunix: Loaded ACPI revision 2.0 tables.
+Aug 28 09:59:04 SAPPI02 vmunix: Using /stand/ext_ioconfig 
+Aug 28 09:59:04 SAPPI02 vmunix: Memory Class Setup
+Aug 28 09:59:04 SAPPI02 vmunix: -------------------------------------------------------------------------
+Aug 28 09:59:04 SAPPI02 vmunix: Class     Physmem              Lockmem              Swapmem
+Aug 28 09:59:04 SAPPI02 vmunix: 
+Aug 28 09:59:04 SAPPI02  above message repeats 3 times
+Aug 28 09:59:04 SAPPI02 vmunix: System :  31068 MB             31068 MB             31068 MB            
+Aug 28 09:59:04 SAPPI02 vmunix: Kernel :  31068 MB             31068 MB             31068 MB            
+Aug 28 09:59:04 SAPPI02 vmunix: User   :  29393 MB             26058 MB             26160 MB            
+Aug 28 09:59:04 SAPPI02 vmunix: 
+Aug 28 09:59:04 SAPPI02 vmunix: ktracer is off until requested.
+Aug 28 09:59:04 SAPPI02 vmunix: Enabling spinlock ALAT switching
+Aug 28 09:59:04 SAPPI02 vmunix: -------------------------------------------------------------------------
+Aug 28 09:59:04 SAPPI02  above message repeats 2 times
+Aug 28 09:59:04 SAPPI02 vmunix: AutoSensor: LORA Mode Enabled
+Aug 28 09:59:04 SAPPI02 vmunix: Installing Socket Protocol families AF_INET and AF_INET6
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00 esvroot
+Aug 28 09:59:04 SAPPI02 vmunix: Kernel EVM initialized
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0x0 mass_storage
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0x0/0x0 usb_ms_scsi
+Aug 28 09:59:04 SAPPI02 vmunix: sec_init(): kernel RPC authentication/security initialization.
+Aug 28 09:59:04 SAPPI02 vmunix: secgss_init():  kernel RPCSEC_GSS security initialization.
+Aug 28 09:59:04 SAPPI02 vmunix: rpc_init(): kernel RPC initialization.
+Aug 28 09:59:04 SAPPI02 vmunix: rpcmod_install(): kernel RPC STREAMS module "rpcmod" installation. ...(driver_install)
+Aug 28 09:59:04 SAPPI02 vmunix: NOTICE: nfs_client_pv3_install(): nfs3 File system was registered at index 10.
+Aug 28 09:59:04 SAPPI02 vmunix: NOTICE: nfs_client_pv4_install(): nfs4 File system was registered at index 11.
+Aug 28 09:59:04 SAPPI02 vmunix: NOTICE: cachefsc_install: cachefs File system was registered at index 13.
+Aug 28 09:59:04 SAPPI02 vmunix: btlan_load() Loaded Successfully
+Aug 28 09:59:04 SAPPI02 vmunix: 0 cell
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0 cec_gen
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0 gh2p
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/0/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/2 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/3 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/4 uhci
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/5 asio0
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: CISS: RAID SA P410i controller on hardware path 0/0/0/2/0/0/0 is now online.
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0 ciss
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.0x0 estp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.0x0.0x0 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/3/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/3/0/0/0 iexgbe
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/3/0/0/1 iexgbe
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.0x0.0x1000000c0000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.0x0.0x1010000c0000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.8 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.8.0 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/2/0/0/0.8.1 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/4/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/4/0/0/0 iexgbe
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/4/0/0/1 iexgbe
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0 pci_slot
+Aug 28 09:59:04 SAPPI02 vmunix: fcd: Claimed HP 451872-001 8Gb Fibre Channel port at hardware path 0/0/0/5/0/0/0 (FC Port 1 on HBA)
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0 fcd
+Aug 28 09:59:04 SAPPI02 vmunix: fcd: Claimed HP 451872-001 8Gb Fibre Channel port at hardware path 0/0/0/5/0/0/1 (FC Port 2 on HBA)
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1 fcd
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/7/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/7/0/0 pci_slot
+Aug 28 09:59:04 SAPPI02 vmunix: fcd: Claimed HP 451872-001 8Gb Fibre Channel port at hardware path 0/0/0/7/0/0/0 (FC Port 1 on HBA)
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/7/0/0/0 fcd
+Aug 28 09:59:04 SAPPI02 vmunix: fcd: Claimed HP 451872-001 8Gb Fibre Channel port at hardware path 0/0/0/7/0/0/1 (FC Port 2 on HBA)
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/7/0/0/1 fcd
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/9/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/9/0/0 pci_slot
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/1 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/2 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/3 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/4 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/5 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/6 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/13/7 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/14/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/14/1 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/14/2 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/14/3 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/14/4 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/16/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/16/1 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/17/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/17/1 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/19/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/20/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/20/1 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/20/2 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/20/3 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/21/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/29/0 uhci
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/29/1 uhci
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/29/7 ehci
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/30/0 PCItoPCI
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/30/0/4/0 gvid_core
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/31/0 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/31/6 sysdev
+Aug 28 09:59:04 SAPPI02 vmunix: 0/120 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/122 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/124 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/126 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/128 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/130 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/132 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/134 processor
+Aug 28 09:59:04 SAPPI02 vmunix: 0/250 pdh
+Aug 28 09:59:04 SAPPI02 vmunix: 0/250/0 asio0
+Aug 28 09:59:04 SAPPI02 vmunix: 0/250/1 ipmi
+Aug 28 09:59:04 SAPPI02 vmunix: 0/250/2 acpi_node
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe29 estp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe2d estp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe29.0x0 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe2d.0x0 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801403cc8b estp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe28 estp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe2c estp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe2c.0x0 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe28.0x0 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801403cc8b.0x0 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801403cc8b.0x1000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1 fcd_fcp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.8.255.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.8.255.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.8.255.0.0.0 stape
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.8.255.0.0.1 schgr
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe29.0x4001000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe29.0x4002000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe29.0x4003000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1 fcd_fcp
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.255.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.255.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.255.0.0.0 sctl
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.0.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.0.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.0.0.0.1 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.0.0.0.2 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.14.0.0.0.3 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe2d.0x4001000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe2d.0x4002000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.0x500143801135fe2d.0x4003000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.255.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.255.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.255.0.0.0 sctl
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.0.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.0.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.0.0.0.1 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.0.0.0.2 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/0.1.15.0.0.0.3 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe2c.0x4001000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe2c.0x4002000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe2c.0x4003000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.255.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.255.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.255.0.0.0 sctl
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.0.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.0.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.0.0.0.1 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.0.0.0.2 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.15.0.0.0.3 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe28.0x4001000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe28.0x4002000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.0x500143801135fe28.0x4003000000000000 eslpt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.255.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.255.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.255.0.0.0 sctl
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.0.0 fcd_vbus
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.0.0.0 tgt
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.0.0.0.1 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.0.0.0.2 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/5/0/0/1.1.14.0.0.0.3 sdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 255/1 mass_storage
+Aug 28 09:59:04 SAPPI02 vmunix: 255/1/0 usb_ms_scsi
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x0 esctl
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x1 esdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x2 esdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x7 esctl
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0xb estape
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0xc eschgr
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x11 esdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x12 esdisk
+Aug 28 09:59:04 SAPPI02 vmunix: 64000/0xfa00/0x13 esdisk
+Aug 28 09:59:04 SAPPI02 vmunix: Boot device's HP-UX HW path is: 0/0/0/2/0/0/0.0x0.0x1010000c0000000
+Aug 28 09:59:04 SAPPI02 vmunix: 
+Aug 28 09:59:04 SAPPI02 vmunix:     System Console is on the Built-In Serial Interface
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/4.1 usbcomposite
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/4.1.0 hid
+Aug 28 09:59:04 SAPPI02 vmunix: 0/0/0/1/0/0/4.1.1 hid
+Aug 28 09:59:04 SAPPI02 vmunix: iexgbe0: INITIALIZING HP  PCIe 2-p 10GbE Built-in at hardware path 0/0/0/3/0/0/0
+Aug 28 09:59:04 SAPPI02 vmunix: iexgbe1: INITIALIZING HP  PCIe 2-p 10GbE Built-in at hardware path 0/0/0/3/0/0/1
+Aug 28 09:59:04 SAPPI02 vmunix: iexgbe2: INITIALIZING HP  PCIe 2-p 10GbE Built-in at hardware path 0/0/0/4/0/0/0
+Aug 28 09:59:04 SAPPI02 vmunix: iexgbe3: INITIALIZING HP  PCIe 2-p 10GbE Built-in at hardware path 0/0/0/4/0/0/1
+Aug 28 09:59:04 SAPPI02 vmunix: AF_INET socket/streams output daemon running, pid 61
+Aug 28 09:59:04 SAPPI02 vmunix: afinet_prelink: module installed
+Aug 28 09:59:04 SAPPI02 vmunix: Starting the STREAMS daemons-phase 1 
+Aug 28 09:59:04 SAPPI02 vmunix: LVM: Root VG activated
+Aug 28 09:59:04 SAPPI02 vmunix:     Swap device table:  (start & size given in 512-byte blocks)
+Aug 28 09:59:04 SAPPI02 vmunix:         entry 0 - major is 64, minor is 0x2; start = 0, size = 16777216
+Aug 28 09:59:04 SAPPI02 vmunix:     Dump device table:  (start & size given in 1-Kbyte blocks)
+Aug 28 09:59:04 SAPPI02 vmunix:         entry 0000000000000000 - major is 1, minor is 0x2; start = 2349920, size = 8388608
+Aug 28 09:59:04 SAPPI02 vmunix: Create STCP device files
+Aug 28 09:59:04 SAPPI02 vmunix: Starting the STREAMS daemons-phase 2 
+Aug 28 09:59:04 SAPPI02 vmunix:      $Revision: vmunix:    B.11.31_LR FLAVOR=perf 
+Aug 28 09:59:04 SAPPI02 vmunix: Memory Information:
+Aug 28 09:59:04 SAPPI02 vmunix:     physical page size = 4096 bytes, logical page size = 4096 bytes
+Aug 28 09:59:04 SAPPI02 vmunix:     Physical: 33450456 Kbytes, lockable: 24153456 Kbytes, available: 27565344 Kbytes
+Aug 28 09:59:04 SAPPI02 vmunix: 
+Aug 28 09:59:07 SAPPI02 nettl[831]: nettl starting up.
+Aug 28 10:00:45 SAPPI02 sshd[1387]: Server listening on :: port 22.
+Aug 28 10:00:45 SAPPI02 sshd[1387]: Server listening on 0.0.0.0 port 22.
+Aug 28 10:00:47 SAPPI02 inetd[1524]: Reading configuration
+Aug 28 10:00:47 SAPPI02 inetd[1524]: ftp/tcp: Added service, server /usr/lbin/ftpd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: telnet/tcp: Added service, server /usr/lbin/telnetd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: tftp/udp: Added service, server /usr/lbin/tftpd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: login/tcp: Added service, server /usr/lbin/rlogind
+Aug 28 10:00:47 SAPPI02 inetd[1524]: shell/tcp: Added service, server /usr/lbin/remshd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: exec/tcp: Added service, server /usr/lbin/rexecd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: ntalk/udp: Added service, server /usr/lbin/ntalkd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: auth/tcp: Added service, server /usr/lbin/identd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: printer/tcp: Added service, server /usr/sbin/rlpdaemon
+Aug 28 10:00:47 SAPPI02 inetd[1524]: daytime/tcp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: daytime/udp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: time/tcp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: echo/tcp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: echo/udp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: discard/tcp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: discard/udp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: chargen/tcp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: chargen/udp: Added service, server internal
+Aug 28 10:00:47 SAPPI02 inetd[1524]: kshell/tcp: Added service, server /usr/lbin/remshd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: klogin/tcp: Added service, server /usr/lbin/rlogind
+Aug 28 10:00:47 SAPPI02 inetd[1524]: swat/tcp: Added service, server /opt/samba/bin/swat
+Aug 28 10:00:47 SAPPI02 inetd[1524]: recserv/tcp: Added service, server /usr/lbin/recserv
+Aug 28 10:00:47 SAPPI02 inetd[1524]: registrar/tcp: Added service, server /etc/opt/resmon/lbin/registrar
+Aug 28 10:00:47 SAPPI02 inetd[1524]: instl_boots/udp: Added service, server /opt/ignite/lbin/instl_bootd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: dtspc/tcp: Added service, server /usr/dt/bin/dtspcd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: hacl-probe/tcp: Added service, server /opt/cmom/lbin/cmomd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: hacl-cfg/udp: Added service, server /usr/lbin/cmclconfd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: hacl-cfg/tcp: Added service, server /usr/lbin/cmclconfd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Aug 28 10:00:47 SAPPI02 inetd[1524]: rpc.cmsd/udp: Added service, server /usr/dt/bin/rpc.cmsd
+Aug 28 10:00:47 SAPPI02 inetd[1524]: rpc.ttdbserver/tcp: Added service, server /usr/dt/bin/rpc.ttdbserver
+Aug 28 10:00:47 SAPPI02 inetd[1524]: Configuration complete
+Aug 28 10:00:51 SAPPI02 su: + tty?? root-sfmdb
+Aug 28 10:00:52 SAPPI02 cmproxyd[1874]: Initializing
+Aug 28 10:00:52 SAPPI02 cmproxyd[1874]: Executing command: rm -f /var/adm/cmcluster/.cmproxyd.*.socket
+Aug 28 10:00:52 SAPPI02 cmproxyd[1874]: Ready
+Aug 28 10:01:22 SAPPI02 cimserver[2102]: PGS10026: The CIM server is listening on HTTPS port 5989.
+Aug 28 10:01:22 SAPPI02 cimserver[2102]: PGS10028: The CIM server is listening on the local connection socket.
+Aug 28 10:01:22 SAPPI02 cimserver[2102]: PGS10030: Started HP-UX WBEM Services version A.02.09.06.
+Aug 28 10:01:26 SAPPI02 pwgrd: Started at Thu Aug 28 10:01:26 2014, pid = 2177
+Aug 28 10:01:27 SAPPI02 /usr/sbin/envd[2198]: restart, and read the configuration file
+Aug 28 10:01:27 SAPPI02 syslog: prmconfig: PRM using effective UIDs
+Aug 28 10:01:29 SAPPI02 lvmpud[2419]: LVM daemon started
+Aug 28 10:01:32 SAPPI02 SAPSAP_99[2442]: SAP Service SAPHostControl successfully started.
+Aug 28 10:02:02 SAPPI02 automountd[1515]: server piprd not responding
+Aug 28 10:03:58 SAPPI02 sshd[2649]: SSH: Server;Ltype: Version;Remote: 10.11.22.87-34690;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Aug 28 10:04:04 SAPPI02 sshd[2649]: Accepted keyboard-interactive/pam for root from 10.11.22.87 port 34690 ssh2
+Aug 28 10:02:02 SAPPI02 automountd[1515]: server piprd not responding
+Aug 28 10:19:04 SAPPI02  above message repeats 47 times
+Aug 28 13:48:19 SAPPI02 cmclconfd[3900]: Request from root on node SAPPI01 to start the cluster on this node
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Daemon Initialization - Maximum number of packages supported for this incarnation is 300.
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Global Cluster Information:
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Network Polling Interval is 2.00 seconds.
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: IO Timeout Extension is 0.00 seconds.
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Auto Start Timeout is 600.00 seconds.
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Failover Optimization is disabled.
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Information Specific to node SAPPI02:
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Cluster lock disk: /dev/dsk/c15t0d1.
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: lan0  0xb499ba64ffce  192.168.1.2  bridged net:1
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: lan900  0xb499ba64ffd6  10.11.51.13  bridged net:2
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: lan3  0xb499ba64ffda    standby    bridged net:2
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Heartbeat Subnet: 192.168.1.0
+Aug 28 13:48:19 SAPPI02 cmcld[3901]: Heartbeat Subnet: 10.11.51.0
+Aug 28 13:48:20 SAPPI02 cmcld[3901]: Configured quorum disk(s) /dev/dsk/c15t0d1
+Aug 28 13:48:20 SAPPI02 cmcld[3901]: Member Timeout is 14.00 seconds.
+Aug 28 13:48:20 SAPPI02 cmcld[3901]: Max reformation duration is 17.80 seconds.
+Aug 28 13:48:20 SAPPI02 cmcld[3901]: The maximum # of concurrent local connections to the daemon that will be supported is 1024.
+Aug 28 13:48:20 SAPPI02 cmdisklockd[3904]: Changed to working directory /var/adm/cmcluster/cmdisklockd.
+Aug 28 13:48:20 SAPPI02 cmdisklockd[3904]: cmdisklockd started
+Aug 28 13:48:20 SAPPI02 cmdisklockd[3904]: added device: /dev/vglock:/dev/dsk/c15t0d1
+Aug 28 13:48:21 SAPPI02 cmcld[3901]: Total allocated: 46085864 bytes, used: 3394848 bytes, unused 42691008 bytes
+Aug 28 13:48:21 SAPPI02 cmcld[3901]: Cluster lock disk /dev/vglock:/dev/dsk/c15t0d1 is good
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Initializing
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Executing command: rm -f /var/adm/cmcluster/.cmserviced.*.socket
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Request to perform run service cmlogd
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Request to perform run service cmfileassistd
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Request to perform run service cmlockd
+Aug 28 13:48:21 SAPPI02 cmfileassistd[3915]: Changed to working directory /var/adm/cmcluster/cmfileassistd.
+Aug 28 13:48:21 SAPPI02 cmlockd[3916]: Changed to working directory /var/adm/cmcluster/cmlockd.
+Aug 28 13:48:21 SAPPI02 cmlockd[3916]: Executing command: rm -f /var/adm/cmcluster/.cmlock.*.socket
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Request to perform run service cmnetd
+Aug 28 13:48:21 SAPPI02 cmnetd[3919]: Changed to working directory /var/adm/cmcluster/cmnetd.
+Aug 28 13:48:21 SAPPI02 cmnetd[3919]: Initializing
+Aug 28 13:48:21 SAPPI02 cmnetd[3919]: Executing command: rm -f /var/adm/cmcluster/.cmnetd.*.socket
+Aug 28 13:48:21 SAPPI02 cmnetd[3919]: Auto Failback is enabled.
+Aug 28 13:48:21 SAPPI02 cmserviced[3905]: Request to perform run service cmlvmd
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: Membership: membership at 0 is REFORMING (coordinator 2) includes: 2 excludes: 1
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: Member SAPPI01 is joining the cluster.
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: Resolving quorum with members SAPPI01, SAPPI02
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: Quorum satisfied
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: Membership: membership at 1 is FORMED (coordinator 1) includes: 1 2 excludes:
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: 2 nodes have formed a new cluster, sequence #1
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: The new active cluster membership is: SAPPI01(id=1), SAPPI02(id=2)
+Aug 28 13:48:22 SAPPI02 cmcld[3901]: Received clear reply in state clearing
+Aug 28 13:48:22 SAPPI02 cmlvmd[3922]: Clvmd initialized successfully. 
+Aug 28 13:48:25 SAPPI02 cmcld[3901]: (SAPPI01) Started package PIpkg on node SAPPI01.
+Sep  1 11:55:14 SAPPI02 sshd[2649]: SSH: Server;LType: Throughput;Remote: 10.11.22.87-34690;IN: 465728;OUT: 75952;Duration: 352269.5;tPut_in: 1.3;tPut_out: 0.2
+Sep 23 17:09:03 SAPPI02 sshd[12447]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-7290;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 23 17:09:21 SAPPI02 sshd[12447]: Accepted keyboard-interactive/pam for root from 10.11.22.226 port 7290 ssh2
+Sep 23 17:10:08 SAPPI02 sshd[12447]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-7290;IN: 5248;OUT: 1040;Duration: 46.6;tPut_in: 112.6;tPut_out: 22.3
+Sep 25 15:04:33 SAPPI02 inetd[1524]: Rereading configuration
+Sep 25 15:04:33 SAPPI02 inetd[1524]: omni/tcp: Deleted service
+Sep 25 15:04:33 SAPPI02 inetd[1524]: Configuration complete
+Sep 25 15:07:43 SAPPI02 inetd[1524]: omni/tcp: Added service, server /opt/omni/lbin/inet
+Sep 25 15:07:43 SAPPI02 inetd[1524]: Rereading configuration
+Sep 25 15:22:27 SAPPI02  above message repeats 2 times
+Sep 25 15:07:43 SAPPI02 inetd[1524]: Configuration complete
+Sep 25 15:22:27 SAPPI02  above message repeats 2 times
+Sep 25 18:35:25 SAPPI02 sshd[2047]: SSH: Server;Ltype: Version;Remote: 10.11.51.10-53488;Protocol: 2.0;Client: OpenSSH_5.6p1+sftpfilecontrol-v1.3-hpn13v7
+Sep 25 18:35:29 SAPPI02 sshd[2047]: Accepted keyboard-interactive/pam for root from 10.11.51.10 port 53488 ssh2
+Sep 25 18:35:29 SAPPI02 sshd[2047]: Received disconnect from 10.11.51.10: 11: disconnected by user
+Sep 25 18:39:21 SAPPI02 sshd[2123]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-58338;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 25 18:39:24 SAPPI02 sshd[2123]: Accepted keyboard-interactive/pam for root from 10.11.22.226 port 58338 ssh2
+Sep 25 18:40:13 SAPPI02 sshd[2123]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-58338;IN: 7792;OUT: 5264;Duration: 48.8;tPut_in: 159.5;tPut_out: 107.8
+Sep 26 08:24:14 SAPPI02 sshd[6953]: SSH: Server;Ltype: Version;Remote: 10.11.22.38-51736;Protocol: 2.0;Client: OpenSSH_6.2
+Sep 26 08:24:14 SAPPI02 sshd[6953]: Accepted publickey for root from 10.11.22.38 port 51736 ssh2
+Sep 26 08:24:16 SAPPI02 sshd[6953]: Received disconnect from 10.11.22.38: 11: disconnected by user
+Sep 26 09:07:21 SAPPI02 sshd[7236]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9212;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 09:07:23 SAPPI02 sshd[7236]: Accepted keyboard-interactive/pam for root from 10.11.22.226 port 9212 ssh2
+Sep 26 09:07:24 SAPPI02 sshd[7236]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-9212;IN: 368;OUT: 1104;Duration: 0.2;tPut_in: 1966.1;tPut_out: 5898.3
+Sep 26 09:08:03 SAPPI02 sshd[7240]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9490;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 09:08:03 SAPPI02 sshd[7240]: Accepted publickey for root from 10.11.22.226 port 9490 ssh2
+Sep 26 09:08:04 SAPPI02 sshd[7240]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-9490;IN: 2416;OUT: 704;Duration: 1.3;tPut_in: 1887.8;tPut_out: 550.1
+Sep 26 09:52:08 SAPPI02 sshd[7520]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-10233;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 09:52:09 SAPPI02 sshd[7520]: Accepted publickey for root from 10.11.22.226 port 10233 ssh2
+Sep 26 09:52:11 SAPPI02 sshd[7520]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-10233;IN: 944;OUT: 176;Duration: 2.1;tPut_in: 457.4;tPut_out: 85.3
+Sep 26 09:52:11 SAPPI02 sshd[7549]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-10266;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 09:52:11 SAPPI02 sshd[7549]: Accepted publickey for root from 10.11.22.226 port 10266 ssh2
+Sep 26 09:52:11 SAPPI02 sshd[7549]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-10266;IN: 288;OUT: 336;Duration: 0.1;tPut_in: 2358.0;tPut_out: 2751.1
+Sep 26 10:06:31 SAPPI02 sshd[7630]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-11141;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 10:06:31 SAPPI02 sshd[7630]: Accepted publickey for root from 10.11.22.226 port 11141 ssh2
+Sep 26 10:06:35 SAPPI02 sshd[7630]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-11141;IN: 704;OUT: 176;Duration: 4.4;tPut_in: 160.3;tPut_out: 40.1
+Sep 26 10:06:36 SAPPI02 sshd[7659]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-11170;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 10:06:36 SAPPI02 sshd[7659]: Accepted publickey for root from 10.11.22.226 port 11170 ssh2
+Sep 26 10:06:36 SAPPI02 sshd[7659]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-11170;IN: 41536;OUT: 320;Duration: 0.2;tPut_in: 185692.2;tPut_out: 1430.6
+Sep 26 10:49:22 SAPPI02 sshd[7871]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-17420;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 26 10:49:22 SAPPI02 sshd[7871]: Accepted publickey for root from 10.11.22.226 port 17420 ssh2
+Sep 26 10:49:22 SAPPI02 sshd[7871]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-17420;IN: 368;OUT: 1968;Duration: 0.2;tPut_in: 2087.7;tPut_out: 11164.4
+Sep 26 11:07:26 SAPPI02 sshd[8007]: SSH: Server;Ltype: Version;Remote: 10.11.51.12-57137;Protocol: 2.0;Client: OpenSSH_5.6p1+sftpfilecontrol-v1.3-hpn13v7
+Sep 26 11:07:28 SAPPI02 sshd[8007]: Accepted publickey for root from 10.11.51.12 port 57137 ssh2
+Sep 26 11:11:10 SAPPI02 sshd[8007]: Received disconnect from 10.11.51.12: 11: disconnected by user
+Sep 26 11:13:58 SAPPI02 sshd[8029]: SSH: Server;Ltype: Version;Remote: 10.11.51.35-53692;Protocol: 2.0;Client: OpenSSH_5.6p1+sftpfilecontrol-v1.3-hpn13v7
+Sep 26 11:14:00 SAPPI02 sshd[8029]: Accepted publickey for root from 10.11.51.35 port 53692 ssh2
+Sep 26 11:14:05 SAPPI02 sshd[8029]: Received disconnect from 10.11.51.35: 11: disconnected by user
+Sep 27 06:51:03 SAPPI02 sshd[14907]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-63873;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 27 06:51:03 SAPPI02 sshd[14907]: Accepted publickey for root from 10.11.22.226 port 63873 ssh2
+Sep 27 06:51:05 SAPPI02 sshd[14907]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-63873;IN: 944;OUT: 176;Duration: 1.5;tPut_in: 640.3;tPut_out: 119.4
+Sep 27 06:51:05 SAPPI02 sshd[14936]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-63904;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 27 06:51:05 SAPPI02 sshd[14936]: Accepted publickey for root from 10.11.22.226 port 63904 ssh2
+Sep 27 06:51:05 SAPPI02 sshd[14936]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-63904;IN: 41536;OUT: 320;Duration: 0.2;tPut_in: 184742.3;tPut_out: 1423.3
+Sep 27 07:20:06 SAPPI02 sshd[15082]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-5084;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 27 07:20:07 SAPPI02 sshd[15082]: Accepted publickey for root from 10.11.22.226 port 5084 ssh2
+Sep 27 07:20:07 SAPPI02 sshd[15082]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-5084;IN: 368;OUT: 656;Duration: 0.2;tPut_in: 1963.0;tPut_out: 3499.3
+Sep 28 07:58:59 SAPPI02 sshd[23588]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9587;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 07:58:59 SAPPI02 sshd[23588]: Accepted publickey for root from 10.11.22.226 port 9587 ssh2
+Sep 28 07:59:00 SAPPI02 sshd[23588]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-9587;IN: 784;OUT: 176;Duration: 1.4;tPut_in: 557.8;tPut_out: 125.2
+Sep 28 07:59:01 SAPPI02 sshd[23619]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9616;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 07:59:01 SAPPI02 sshd[23619]: Accepted publickey for root from 10.11.22.226 port 9616 ssh2
+Sep 28 07:59:01 SAPPI02 sshd[23619]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-9616;IN: 41536;OUT: 320;Duration: 0.3;tPut_in: 159655.6;tPut_out: 1230.0
+Sep 28 11:22:55 SAPPI02 sshd[26524]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-13810;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 11:22:55 SAPPI02 sshd[26524]: Accepted publickey for root from 10.11.22.226 port 13810 ssh2
+Sep 28 11:22:56 SAPPI02 sshd[26524]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-13810;IN: 1024;OUT: 176;Duration: 1.0;tPut_in: 1068.4;tPut_out: 183.6
+Sep 28 11:22:56 SAPPI02 sshd[26555]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-13843;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 11:22:56 SAPPI02 sshd[26555]: Accepted publickey for root from 10.11.22.226 port 13843 ssh2
+Sep 28 11:22:57 SAPPI02 sshd[26555]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-13843;IN: 288;OUT: 336;Duration: 0.4;tPut_in: 651.7;tPut_out: 760.3
+Sep 28 11:26:00 SAPPI02 sshd[26560]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15027;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 11:26:01 SAPPI02 sshd[26560]: Accepted publickey for root from 10.11.22.226 port 15027 ssh2
+Sep 28 11:26:02 SAPPI02 sshd[26560]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15027;IN: 1072;OUT: 176;Duration: 1.1;tPut_in: 960.0;tPut_out: 157.6
+Sep 28 11:26:02 SAPPI02 sshd[26591]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15058;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 11:26:02 SAPPI02 sshd[26591]: Accepted publickey for root from 10.11.22.226 port 15058 ssh2
+Sep 28 11:26:02 SAPPI02 sshd[26591]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15058;IN: 51824;OUT: 320;Duration: 0.2;tPut_in: 268630.9;tPut_out: 1658.7
+Sep 28 12:14:23 SAPPI02 sshd[26862]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15845;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 12:14:23 SAPPI02 sshd[26862]: Accepted publickey for root from 10.11.22.226 port 15845 ssh2
+Sep 28 12:14:24 SAPPI02 sshd[26862]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15845;IN: 368;OUT: 544;Duration: 0.2;tPut_in: 1867.0;tPut_out: 2759.9
+Sep 28 12:18:56 SAPPI02 sshd[26875]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-16693;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 12:18:57 SAPPI02 sshd[26875]: Accepted publickey for root from 10.11.22.226 port 16693 ssh2

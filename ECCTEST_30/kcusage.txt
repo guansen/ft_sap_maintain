@@ -1,0 +1,134 @@
+Tunable:        filecache_max
+Usage:          2264342528
+Setting:        2280460205
+Percentage:     99.3
+
+Tunable:        maxdsiz
+Usage:          9830400
+Setting:        1073741824
+Percentage:     0.9
+
+Tunable:        maxdsiz_64bit
+Usage:          100663296
+Setting:        17179869184
+Percentage:     0.6
+
+Tunable:        maxfiles_lim
+Usage:          67
+Setting:        63488
+Percentage:     0.1
+
+Tunable:        maxssiz
+Usage:          262144
+Setting:        8388608
+Percentage:     3.1
+
+Tunable:        maxssiz_64bit
+Usage:          1048576
+Setting:        1073741824
+Percentage:     0.1
+
+Tunable:        maxtsiz
+Usage:          7249920
+Setting:        100663296
+Percentage:     7.2
+
+Tunable:        maxtsiz_64bit
+Usage:          201326592
+Setting:        1073741824
+Percentage:     18.8
+
+Tunable:        maxuprc
+Usage:          55
+Setting:        4096
+Percentage:     1.3
+
+Tunable:        max_thread_proc
+Usage:          101
+Setting:        3000
+Percentage:     3.4
+
+Tunable:        msgmbs
+Usage:          0
+Setting:        8
+Percentage:     0.0
+
+Tunable:        msgmni
+Usage:          2
+Setting:        4096
+Percentage:     0.0
+
+Tunable:        msgtql
+Usage:          0
+Setting:        4096
+Percentage:     0.0
+
+Tunable:        nflocks
+Usage:          108
+Setting:        8192
+Percentage:     1.3
+
+Tunable:        ninode
+Usage:          2351
+Setting:        139264
+Percentage:     1.7
+
+Tunable:        nkthread
+Usage:          888
+Setting:        250000
+Percentage:     0.4
+
+Tunable:        nproc
+Usage:          320
+Setting:        4200
+Percentage:     7.6
+
+Tunable:        npty
+Usage:          1
+Setting:        60
+Percentage:     1.7
+
+Tunable:        nstrpty
+Usage:          0
+Setting:        60
+Percentage:     0.0
+
+Tunable:        nstrtel
+Usage:          0
+Setting:        60
+Percentage:     0.0
+
+Tunable:        nswapdev
+Usage:          3
+Setting:        32
+Percentage:     9.4
+
+Tunable:        nswapfs
+Usage:          0
+Setting:        32
+Percentage:     0.0
+
+Tunable:        semmni
+Usage:          182
+Setting:        8192
+Percentage:     2.2
+
+Tunable:        semmns
+Usage:          920
+Setting:        16384
+Percentage:     5.6
+
+Tunable:        shmmax
+Usage:          4290772992
+Setting:        4398046511104
+Percentage:     0.1
+
+Tunable:        shmmni
+Usage:          77
+Setting:        4096
+Percentage:     1.9
+
+Tunable:        shmseg
+Usage:          12
+Setting:        512
+Percentage:     2.3

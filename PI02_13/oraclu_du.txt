@@ -1,0 +1,16 @@
+0	/oracle/PIP/oraarch
+0	/oracle/PIP/origlogA
+0	/oracle/PIP/origlogB
+0	/oracle/PIP/mirrlogA
+0	/oracle/PIP/mirrlogB
+0	/oracle/PIP/102_64
+0	/oracle/PIP/sapdata1
+0	/oracle/PIP/sapdata2
+0	/oracle/PIP/sapdata3
+0	/oracle/PIP/sapdata4
+0	/oracle/PIP/sapreorg
+432	/oracle/PIP
+231232	/oracle/client/10x_64/instantclient_10201
+231248	/oracle/client/10x_64
+231248	/oracle/client
+231680	/oracle

@@ -1,0 +1,12 @@
+
+CLUSTER        STATUS       
+ECC_cluster    up           
+  
+  NODE           STATUS       STATE        
+  SAPECC01       up           running      
+
+    PACKAGE        STATUS           STATE            AUTO_RUN    NODE        
+    ECCpkg         up               running          enabled     SAPECC01    
+  
+  NODE           STATUS       STATE        
+  SAPECC02       up           running      
