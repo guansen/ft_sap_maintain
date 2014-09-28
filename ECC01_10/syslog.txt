@@ -3611,3 +3611,11 @@ Sep 28 12:15:47 SAPECC01 sshd[2323]: Accepted publickey for root from 10.11.22.2
 Sep 28 12:15:47 SAPECC01 sshd[2323]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-17253;IN: 368;OUT: 624;Duration: 0.1;tPut_in: 2923.9;tPut_out: 4958.0
 Sep 28 12:25:56 SAPECC01 sshd[3394]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-17765;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 12:25:57 SAPECC01 sshd[3394]: Accepted publickey for root from 10.11.22.226 port 17765 ssh2
+Sep 28 12:25:58 SAPECC01 sshd[3394]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-17765;IN: 960;OUT: 176;Duration: 1.8;tPut_in: 530.4;tPut_out: 97.2
+Sep 28 12:25:58 SAPECC01 sshd[3413]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-17803;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 12:25:59 SAPECC01 sshd[3413]: Accepted publickey for root from 10.11.22.226 port 17803 ssh2
+Sep 28 12:25:59 SAPECC01 sshd[3413]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-17803;IN: 875856;OUT: 896;Duration: 0.8;tPut_in: 1132801.5;tPut_out: 1158.9
+Sep 28 13:01:55 SAPECC01 sshd[6732]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-1733;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 13:06:16 SAPECC01 sshd[7164]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-1757;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 13:06:40 SAPECC01 sshd[7208]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-1772;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 13:06:40 SAPECC01 sshd[7208]: Accepted publickey for root from 10.11.22.226 port 1772 ssh2

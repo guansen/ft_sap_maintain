@@ -412,3 +412,10 @@ Sep 28 12:03:58 PI-TEST sshd[8960]: Accepted publickey for root from 10.11.22.22
 Sep 28 12:03:58 PI-TEST sshd[8960]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-17485;IN: 368;OUT: 624;Duration: 0.1;tPut_in: 2930.2;tPut_out: 4968.6
 Sep 28 12:14:01 PI-TEST sshd[9031]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-18649;Protocol: 2.0;Client: OpenSSH_4.6
 Sep 28 12:14:01 PI-TEST sshd[9031]: Accepted publickey for root from 10.11.22.226 port 18649 ssh2
+Sep 28 12:14:09 PI-TEST sshd[9031]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-18649;IN: 1040;OUT: 176;Duration: 7.9;tPut_in: 132.3;tPut_out: 22.4
+Sep 28 12:14:09 PI-TEST sshd[9047]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-18691;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 12:14:10 PI-TEST sshd[9047]: Accepted publickey for root from 10.11.22.226 port 18691 ssh2
+Sep 28 12:14:10 PI-TEST sshd[9047]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-18691;IN: 340256;OUT: 512;Duration: 0.9;tPut_in: 397721.1;tPut_out: 598.5
+Sep 28 12:28:30 PI-TEST sshd[17629]: Received disconnect from 10.11.22.226: 11: Disconnect requested by Windows SSH Client.
+Sep 28 12:54:44 PI-TEST sshd[9333]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2662;Protocol: 2.0;Client: OpenSSH_4.6
+Sep 28 12:54:44 PI-TEST sshd[9333]: Accepted publickey for root from 10.11.22.226 port 2662 ssh2
