@@ -1,7 +1,7 @@
 0	/oracle/lost+found
 0	/oracle/FTP/lost+found
 0	/oracle/FTP/oraarch/lost+found
-3510518	/oracle/FTP/oraarch
+3912106	/oracle/FTP/oraarch
 0	/oracle/FTP/origlogA/lost+found
 15328	/oracle/FTP/origlogA/cntrl
 220132	/oracle/FTP/origlogA
@@ -1270,9 +1270,9 @@
 3574	/oracle/FTP/102_64/network/tools/help
 1034	/oracle/FTP/102_64/network/tools/images
 4614	/oracle/FTP/102_64/network/tools
-114338	/oracle/FTP/102_64/network/log
+114644	/oracle/FTP/102_64/network/log
 0	/oracle/FTP/102_64/network/trace
-154354	/oracle/FTP/102_64/network
+154660	/oracle/FTP/102_64/network
 14	/oracle/FTP/102_64/nls/csscan/sql
 14	/oracle/FTP/102_64/nls/csscan
 994	/oracle/FTP/102_64/nls/data/old
@@ -2221,7 +2221,7 @@
 74	/oracle/FTP/102_64/log/sapecc02/client
 74	/oracle/FTP/102_64/log/sapecc02
 180	/oracle/FTP/102_64/log
-7500354	/oracle/FTP/102_64
+7500660	/oracle/FTP/102_64
 0	/oracle/FTP/sapdata1/lost+found
 1446144	/oracle/FTP/sapdata1/sysaux_1
 12244000	/oracle/FTP/sapdata1/undo_1
@@ -2280,15 +2280,15 @@
 0	/oracle/FTP/.sw/software
 2	/oracle/FTP/.sw
 0	/oracle/FTP/oraflash
-1328402	/oracle/FTP/saptrace/background
-27432	/oracle/FTP/saptrace/usertrace
+1328436	/oracle/FTP/saptrace/background
+28344	/oracle/FTP/saptrace/usertrace
 0	/oracle/FTP/saptrace/audit
-1355834	/oracle/FTP/saptrace
+1356780	/oracle/FTP/saptrace
 94	/oracle/FTP/sapbackup/FTP
 419910	/oracle/FTP/sapbackup
 100324	/oracle/FTP/sapcheck
 82276	/oracle/FTP/saparch
-526017950	/oracle/FTP
+526420790	/oracle/FTP
 0	/oracle/client/lost+found
 224430	/oracle/client/10x_64/instantclient_10204
 224432	/oracle/client/10x_64
@@ -5196,4 +5196,4 @@
 1264	/oracle/oraInventory/Contents
 6	/oracle/oraInventory/ContentsXML
 7980	/oracle/oraInventory
-535923768	/oracle
+536326608	/oracle
