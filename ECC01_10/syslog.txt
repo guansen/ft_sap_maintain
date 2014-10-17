@@ -191,3 +191,9 @@ Oct 17 05:16:07 SAPECC01 sshd[9994]: Accepted publickey for root from 10.11.22.2
 Oct 17 05:16:07 SAPECC01 sshd[9994]: SSH: Server;LType: Throughput;Remote: 10.11.22.227-49108;IN: 412368;OUT: 560;Duration: 0.5;tPut_in: 897998.3;tPut_out: 1219.5
 Oct 17 17:16:00 SAPECC01 sshd[16253]: SSH: Server;Ltype: Version;Remote: 10.11.22.227-53595;Protocol: 2.0;Client: OpenSSH_4.6
 Oct 17 17:16:00 SAPECC01 sshd[16253]: Accepted publickey for root from 10.11.22.227 port 53595 ssh2
+Oct 17 17:16:04 SAPECC01 sshd[16253]: SSH: Server;LType: Throughput;Remote: 10.11.22.227-53595;IN: 960;OUT: 176;Duration: 3.8;tPut_in: 253.9;tPut_out: 46.5
+Oct 17 17:16:04 SAPECC01 sshd[16272]: SSH: Server;Ltype: Version;Remote: 10.11.22.227-53630;Protocol: 2.0;Client: OpenSSH_4.6
+Oct 17 17:16:05 SAPECC01 sshd[16272]: Accepted publickey for root from 10.11.22.227 port 53630 ssh2
+Oct 17 17:16:05 SAPECC01 sshd[16272]: SSH: Server;LType: Throughput;Remote: 10.11.22.227-53630;IN: 412368;OUT: 560;Duration: 0.4;tPut_in: 960999.7;tPut_out: 1305.0
+Oct 18 05:15:59 SAPECC01 sshd[22735]: SSH: Server;Ltype: Version;Remote: 10.11.22.227-57509;Protocol: 2.0;Client: OpenSSH_4.6
+Oct 18 05:15:59 SAPECC01 sshd[22735]: Accepted publickey for root from 10.11.22.227 port 57509 ssh2
