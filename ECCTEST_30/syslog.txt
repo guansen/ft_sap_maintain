@@ -197,3 +197,9 @@ Oct 17 16:36:19 ferrtdev sshd[10274]: Accepted publickey for root from 10.11.22.
 Oct 17 16:36:20 ferrtdev sshd[10274]: SSH: Server;LType: Throughput;Remote: 10.11.22.227-54070;IN: 556544;OUT: 656;Duration: 0.5;tPut_in: 1017119.1;tPut_out: 1198.9
 Oct 18 04:36:08 ferrtdev sshd[14728]: SSH: Server;Ltype: Version;Remote: 10.11.22.227-57944;Protocol: 2.0;Client: OpenSSH_4.6
 Oct 18 04:36:08 ferrtdev sshd[14728]: Accepted publickey for root from 10.11.22.227 port 57944 ssh2
+Oct 18 04:36:20 ferrtdev sshd[14728]: SSH: Server;LType: Throughput;Remote: 10.11.22.227-57944;IN: 992;OUT: 176;Duration: 11.2;tPut_in: 88.5;tPut_out: 15.7
+Oct 18 04:36:20 ferrtdev sshd[14744]: SSH: Server;Ltype: Version;Remote: 10.11.22.227-57977;Protocol: 2.0;Client: OpenSSH_4.6
+Oct 18 04:36:20 ferrtdev sshd[14744]: Accepted publickey for root from 10.11.22.227 port 57977 ssh2
+Oct 18 04:36:21 ferrtdev sshd[14744]: SSH: Server;LType: Throughput;Remote: 10.11.22.227-57977;IN: 556544;OUT: 656;Duration: 0.6;tPut_in: 1006647.0;tPut_out: 1186.5
+Oct 18 16:36:07 ferrtdev sshd[19041]: SSH: Server;Ltype: Version;Remote: 10.11.22.227-60407;Protocol: 2.0;Client: OpenSSH_4.6
+Oct 18 16:36:07 ferrtdev sshd[19041]: Accepted publickey for root from 10.11.22.227 port 60407 ssh2
