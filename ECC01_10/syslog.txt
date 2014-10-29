@@ -324,3 +324,9 @@ Oct 29 05:15:23 SAPECC01 sshd[14579]: SSH: Server;LType: Throughput;Remote: 10.1
 Oct 29 10:43:17 SAPECC01 sshd[16175]: Received disconnect from 10.11.22.87: 11: Disconnect requested by Windows SSH Client.
 Oct 29 17:15:17 SAPECC01 sshd[20832]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-48050;Protocol: 2.0;Client: OpenSSH_4.6
 Oct 29 17:15:17 SAPECC01 sshd[20832]: Accepted publickey for root from 10.11.22.226 port 48050 ssh2
+Oct 29 17:15:20 SAPECC01 sshd[20832]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-48050;IN: 960;OUT: 176;Duration: 3.2;tPut_in: 301.5;tPut_out: 55.3
+Oct 29 17:15:20 SAPECC01 sshd[20865]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-48092;Protocol: 2.0;Client: OpenSSH_4.6
+Oct 29 17:15:21 SAPECC01 sshd[20865]: Accepted publickey for root from 10.11.22.226 port 48092 ssh2
+Oct 29 17:15:21 SAPECC01 sshd[20865]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-48092;IN: 432944;OUT: 608;Duration: 0.5;tPut_in: 950039.0;tPut_out: 1334.2
+Oct 30 05:15:16 SAPECC01 sshd[27297]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-18328;Protocol: 2.0;Client: OpenSSH_4.6
+Oct 30 05:15:16 SAPECC01 sshd[27297]: Accepted publickey for root from 10.11.22.226 port 18328 ssh2
