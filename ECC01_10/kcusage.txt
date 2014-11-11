@@ -1,5 +1,5 @@
 Tunable:        filecache_max
-Usage:          2590126080
+Usage:          2590085120
 Setting:        2606240235
 Percentage:     99.4
 

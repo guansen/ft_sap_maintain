@@ -1,1 +1,1 @@
-  5:33pm  up 75 days,  7:35,  0 users,  load average: 0.00, 0.00, 0.00
+  5:33am  up 75 days, 19:35,  0 users,  load average: 0.00, 0.00, 0.00

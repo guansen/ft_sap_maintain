@@ -1,21 +1,21 @@
 Filesystem          kbytes    used   avail %used Mounted on
-/dev/vg00/lvol3    1048576 1034496   13984   99% /
+/dev/vg00/lvol3    1048576 1034944   13536   99% /
 /dev/vg00/lvol1    1835008  530088 1294784   29% /stand
-/dev/vg00/lvol8    8912896 1719496 7143032   19% /var
+/dev/vg00/lvol8    8912896 1719816 7142720   19% /var
 /dev/vg00/lvol7    10485760 5216264 5228416   50% /usr
 /dev/sapvg/pid_trans
                    20971520 10644393 9682039   52% /usr/sap/trans
-/dev/vg00/piq_sap  10485760 6170077 4046279   60% /usr/sap/PIQ
+/dev/vg00/piq_sap  10485760 6169972 4046377   60% /usr/sap/PIQ
 /dev/vg00/pid_sap  10485760 7242065 3041487   70% /usr/sap/PID
 /dev/vg00/lvol4    5242880 4313240  923352   82% /tmp
 /dev/vg00/piq_sapmnt
-                   10485760 3607421 6448583   36% /sapmnt/PIQ
+                   10485760 3607052 6448994   36% /sapmnt/PIQ
 /dev/vg00/pid_sapmnt
                    10485760 4164924 5925880   41% /sapmnt/PID
 /dev/vg00/oracle   15728640 12880244 2670372   83% /oracle
 /dev/vg00/oracle_client
                     327680  233379   88409   73% /oracle/client
-/dev/vg00/piq_piq  6291456 5064865 1149931   81% /oracle/PIQ
+/dev/vg00/piq_piq  6291456 5065143 1149669   82% /oracle/PIQ
 /dev/sapvg/piq_sapreorg
                    2097152  141723 1833217    7% /oracle/PIQ/sapreorg
 /dev/sapvg/piq_sapdata4
@@ -31,7 +31,7 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/piq_origlogA
                    2097152  117416 1856009    6% /oracle/PIQ/origlogA
 /dev/sapvg/piq_oraarch
-                   52428800 43154160 8695148   83% /oracle/PIQ/oraarch
+                   52428800 43301751 8556780   83% /oracle/PIQ/oraarch
 /dev/sapvg/piq_mirrlogB
                    2097152  105048 1867604    5% /oracle/PIQ/mirrlogB
 /dev/sapvg/piq_mirrlogA
@@ -57,5 +57,5 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/pid_mirrlogA
                    3145728  105305 2850404    4% /oracle/PID/mirrlogA
 /dev/vg00/lvol6    9437184 5315888 4089120   57% /opt
-/dev/vg00/lvol5     131072    7248  122952    6% /home
+/dev/vg00/lvol5     131072    7256  122944    6% /home
 /dev/sapvg/cd      52428800 49082443 3137280   94% /cdsap
