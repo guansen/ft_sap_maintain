@@ -1,7 +1,7 @@
 Tunable:        filecache_max
-Usage:          2262945792
+Usage:          2256830464
 Setting:        2280460205
-Percentage:     99.2
+Percentage:     99.0
 
 Tunable:        maxdsiz
 Usage:          9830400
@@ -64,7 +64,7 @@ Setting:        4096
 Percentage:     0.0
 
 Tunable:        nflocks
-Usage:          108
+Usage:          109
 Setting:        8192
 Percentage:     1.3
 
