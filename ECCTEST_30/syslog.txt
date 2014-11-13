@@ -20234,3 +20234,9 @@ Nov 13 15:33:47 ferrtdev vmunix: vxfs: NOTICE: msgcnt 238089 mesg 001: V-2-1: vx
 Nov 13 15:36:19 ferrtdev sshd[5631]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-9849;IN: 2584832;OUT: 15680;Duration: 465.7;tPut_in: 5550.0;tPut_out: 33.7
 Nov 13 16:34:55 ferrtdev sshd[6170]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-12920;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 13 16:34:55 ferrtdev sshd[6170]: Accepted publickey for root from 10.11.22.226 port 12920 ssh2
+Nov 13 16:35:04 ferrtdev sshd[6170]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-12920;IN: 992;OUT: 176;Duration: 8.5;tPut_in: 116.9;tPut_out: 20.7
+Nov 13 16:35:04 ferrtdev sshd[6246]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-12959;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 13 16:35:04 ferrtdev sshd[6246]: Accepted publickey for root from 10.11.22.226 port 12959 ssh2
+Nov 13 16:35:07 ferrtdev sshd[6246]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-12959;IN: 3543568;OUT: 2624;Duration: 2.9;tPut_in: 1234715.4;tPut_out: 914.3
+Nov 14 04:34:54 ferrtdev sshd[10728]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-16363;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 04:34:55 ferrtdev sshd[10728]: Accepted publickey for root from 10.11.22.226 port 16363 ssh2
