@@ -94,3 +94,16 @@ Nov 13 17:14:44 SAPECC01 sshd[15717]: Accepted publickey for root from 10.11.22.
 Nov 13 17:14:44 SAPECC01 sshd[15717]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-12548;IN: 402032;OUT: 560;Duration: 0.4;tPut_in: 913580.8;tPut_out: 1272.5
 Nov 14 05:14:38 SAPECC01 sshd[22282]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15932;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 14 05:14:39 SAPECC01 sshd[22282]: Accepted publickey for root from 10.11.22.226 port 15932 ssh2
+Nov 14 05:14:43 SAPECC01 sshd[22282]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15932;IN: 912;OUT: 176;Duration: 3.9;tPut_in: 236.4;tPut_out: 45.6
+Nov 14 05:14:43 SAPECC01 sshd[22315]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15967;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 05:14:43 SAPECC01 sshd[22315]: Accepted publickey for root from 10.11.22.226 port 15967 ssh2
+Nov 14 05:14:44 SAPECC01 sshd[22315]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15967;IN: 402032;OUT: 560;Duration: 0.5;tPut_in: 731189.2;tPut_out: 1018.5
+Nov 14 11:34:33 SAPECC01 sshd[27211]: SSH: Server;Ltype: Version;Remote: 10.11.22.77-55920;Protocol: 2.0;Client: OpenSSH_6.2
+Nov 14 11:34:40 SAPECC01 sshd[27211]: Accepted keyboard-interactive/pam for root from 10.11.22.77 port 55920 ssh2
+Nov 14 11:35:04 SAPECC01 sshd[27211]: Received disconnect from 10.11.22.77: 11: disconnected by user
+Nov 14 11:40:11 SAPECC01 sshd[27825]: SSH: Server;Ltype: Version;Remote: 10.11.22.77-56091;Protocol: 2.0;Client: OpenSSH_6.2
+Nov 14 11:40:13 SAPECC01 sshd[27825]: Accepted keyboard-interactive/pam for root from 10.11.22.77 port 56091 ssh2
+Nov 14 11:41:11 SAPECC01 su: + 0 root-ftpadm
+Nov 14 11:41:28 SAPECC01 sshd[27825]: Received disconnect from 10.11.22.77: 11: disconnected by user
+Nov 14 17:14:37 SAPECC01 sshd[28778]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-36343;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 17:14:37 SAPECC01 sshd[28778]: Accepted publickey for root from 10.11.22.226 port 36343 ssh2

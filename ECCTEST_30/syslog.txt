@@ -20240,3 +20240,15 @@ Nov 13 16:35:04 ferrtdev sshd[6246]: Accepted publickey for root from 10.11.22.2
 Nov 13 16:35:07 ferrtdev sshd[6246]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-12959;IN: 3543568;OUT: 2624;Duration: 2.9;tPut_in: 1234715.4;tPut_out: 914.3
 Nov 14 04:34:54 ferrtdev sshd[10728]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-16363;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 14 04:34:55 ferrtdev sshd[10728]: Accepted publickey for root from 10.11.22.226 port 16363 ssh2
+Nov 14 04:35:05 ferrtdev sshd[10728]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-16363;IN: 864;OUT: 176;Duration: 10.3;tPut_in: 84.2;tPut_out: 17.1
+Nov 14 04:35:05 ferrtdev sshd[10804]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-16402;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 04:35:05 ferrtdev sshd[10804]: Accepted publickey for root from 10.11.22.226 port 16402 ssh2
+Nov 14 04:35:09 ferrtdev sshd[10804]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-16402;IN: 3543568;OUT: 2624;Duration: 4.0;tPut_in: 895180.6;tPut_out: 662.9
+Nov 14 10:56:00 ferrtdev sshd[13031]: SSH: Server;Ltype: Version;Remote: 10.11.22.77-55984;Protocol: 2.0;Client: OpenSSH_6.2
+Nov 14 10:56:03 ferrtdev sshd[13031]: Accepted keyboard-interactive/pam for root from 10.11.22.77 port 55984 ssh2
+Nov 14 10:56:04 ferrtdev sshd[13031]: Received disconnect from 10.11.22.77: 11: disconnected by user
+Nov 14 10:57:25 ferrtdev sshd[13046]: SSH: Server;Ltype: Version;Remote: 10.11.22.77-56028;Protocol: 2.0;Client: OpenSSH_6.2
+Nov 14 10:57:27 ferrtdev sshd[13046]: Accepted keyboard-interactive/pam for root from 10.11.22.77 port 56028 ssh2
+Nov 14 10:59:58 ferrtdev sshd[13046]: Received disconnect from 10.11.22.77: 11: disconnected by user
+Nov 14 16:34:52 ferrtdev sshd[15076]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-36779;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 16:34:52 ferrtdev sshd[15076]: Accepted publickey for root from 10.11.22.226 port 36779 ssh2
