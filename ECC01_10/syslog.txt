@@ -107,3 +107,9 @@ Nov 14 11:41:11 SAPECC01 su: + 0 root-ftpadm
 Nov 14 11:41:28 SAPECC01 sshd[27825]: Received disconnect from 10.11.22.77: 11: disconnected by user
 Nov 14 17:14:37 SAPECC01 sshd[28778]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-36343;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 14 17:14:37 SAPECC01 sshd[28778]: Accepted publickey for root from 10.11.22.226 port 36343 ssh2
+Nov 14 17:14:40 SAPECC01 sshd[28778]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-36343;IN: 960;OUT: 176;Duration: 3.1;tPut_in: 314.1;tPut_out: 57.6
+Nov 14 17:14:40 SAPECC01 sshd[28797]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-36380;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 17:14:41 SAPECC01 sshd[28797]: Accepted publickey for root from 10.11.22.226 port 36380 ssh2
+Nov 14 17:14:41 SAPECC01 sshd[28797]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-36380;IN: 402032;OUT: 560;Duration: 0.4;tPut_in: 977780.1;tPut_out: 1362.0
+Nov 15 05:14:36 SAPECC01 sshd[5420]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-27111;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 15 05:14:36 SAPECC01 sshd[5420]: Accepted publickey for root from 10.11.22.226 port 27111 ssh2

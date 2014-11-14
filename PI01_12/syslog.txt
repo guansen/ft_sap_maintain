@@ -110,3 +110,9 @@ Nov 14 11:29:56 SAPPI01 sshd[20910]: Accepted keyboard-interactive/pam for root 
 Nov 14 11:29:58 SAPPI01 sshd[20910]: Received disconnect from 10.11.22.77: 11: disconnected by user
 Nov 14 17:09:20 SAPPI01 sshd[21936]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-36557;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 14 17:09:20 SAPPI01 sshd[21936]: Accepted publickey for root from 10.11.22.226 port 36557 ssh2
+Nov 14 17:09:31 SAPPI01 sshd[21936]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-36557;IN: 960;OUT: 176;Duration: 10.3;tPut_in: 92.9;tPut_out: 17.0
+Nov 14 17:09:31 SAPPI01 sshd[21975]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-36599;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 14 17:09:31 SAPPI01 sshd[21975]: Accepted publickey for root from 10.11.22.226 port 36599 ssh2
+Nov 14 17:09:32 SAPPI01 sshd[21975]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-36599;IN: 402032;OUT: 560;Duration: 0.6;tPut_in: 711577.5;tPut_out: 991.2
+Nov 15 05:09:20 SAPPI01 sshd[27881]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-27338;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 15 05:09:20 SAPPI01 sshd[27881]: Accepted publickey for root from 10.11.22.226 port 27338 ssh2
