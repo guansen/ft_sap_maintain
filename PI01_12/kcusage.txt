@@ -1,7 +1,7 @@
 Tunable:        filecache_max
-Usage:          826834944
+Usage:          971767808
 Setting:        2606240235
-Percentage:     31.7
+Percentage:     37.3
 
 Tunable:        maxdsiz
 Usage:          46415872
@@ -74,7 +74,7 @@ Setting:        502483
 Percentage:     0.4
 
 Tunable:        nkthread
-Usage:          1154
+Usage:          1150
 Setting:        250000
 Percentage:     0.5
 
