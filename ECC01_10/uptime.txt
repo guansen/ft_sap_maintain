@@ -1,1 +1,1 @@
-  5:14pm  up 99 days, 41 mins,  0 users,  load average: 0.01, 0.01, 0.01
+  5:14am  up 99 days, 12:41,  0 users,  load average: 0.01, 0.01, 0.01
