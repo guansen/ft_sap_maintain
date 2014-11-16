@@ -128,3 +128,10 @@ Nov 15 17:09:30 SAPPI01 sshd[3808]: Accepted publickey for root from 10.11.22.22
 Nov 15 17:09:30 SAPPI01 sshd[3808]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-1426;IN: 402032;OUT: 560;Duration: 0.5;tPut_in: 763696.6;tPut_out: 1063.8
 Nov 16 05:09:18 SAPPI01 sshd[9659]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-32741;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 16 05:09:18 SAPPI01 sshd[9659]: Accepted publickey for root from 10.11.22.226 port 32741 ssh2
+Nov 16 05:09:27 SAPPI01 sshd[9659]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-32741;IN: 960;OUT: 176;Duration: 9.3;tPut_in: 103.3;tPut_out: 18.9
+Nov 16 05:09:27 SAPPI01 sshd[9698]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-32848;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 16 05:09:28 SAPPI01 sshd[9698]: Accepted publickey for root from 10.11.22.226 port 32848 ssh2
+Nov 16 05:09:28 SAPPI01 sshd[9698]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-32848;IN: 402032;OUT: 560;Duration: 0.5;tPut_in: 757075.3;tPut_out: 1054.5
+Nov 16 13:10:03 SAPPI01 sshd[23492]: SSH: Server;Ltype: Version;Remote: 10.11.22.87-47402;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Nov 16 17:09:16 SAPPI01 sshd[15352]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-38676;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 16 17:09:16 SAPPI01 sshd[15352]: Accepted publickey for root from 10.11.22.226 port 38676 ssh2
