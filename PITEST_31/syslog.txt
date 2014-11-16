@@ -186,3 +186,19 @@ Nov 16 13:05:28 PI-TEST sshd[3850]: SSH: Server;LType: Throughput;Remote: 10.11.
 Nov 16 13:07:38 PI-TEST sshd[4095]: SSH: Server;LType: Throughput;Remote: 10.11.22.87-47401;IN: 364;OUT: 464;Duration: 180.0;tPut_in: 2.0;tPut_out: 2.6
 Nov 16 17:04:45 PI-TEST sshd[5897]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-39652;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 16 17:04:45 PI-TEST sshd[5897]: Accepted publickey for root from 10.11.22.226 port 39652 ssh2
+Nov 16 17:05:10 PI-TEST sshd[5897]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-39652;IN: 1040;OUT: 176;Duration: 24.1;tPut_in: 43.2;tPut_out: 7.3
+Nov 16 17:05:10 PI-TEST sshd[6005]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-39886;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 16 17:05:10 PI-TEST sshd[6005]: Accepted publickey for root from 10.11.22.226 port 39886 ssh2
+Nov 16 17:05:10 PI-TEST sshd[6005]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-39886;IN: 319632;OUT: 512;Duration: 0.4;tPut_in: 766167.5;tPut_out: 1227.3
+Nov 16 17:52:06 PI-TEST sshd[6320]: SSH: Server;Ltype: Version;Remote: 10.11.22.87-47903;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Nov 16 17:52:09 PI-TEST sshd[6320]: Accepted keyboard-interactive/pam for root from 10.11.22.87 port 47903 ssh2
+Nov 16 17:52:24 PI-TEST su: + 0 root-orapid
+Nov 16 18:44:37 PI-TEST sshd[6320]: subsystem request for sftp by user root
+Nov 16 18:49:09 PI-TEST sshd[6320]: SSH: Server;LType: Throughput;Remote: 10.11.22.87-47903;IN: 129760;OUT: 15159488;Duration: 3419.3;tPut_in: 37.9;tPut_out: 4433.5
+Nov 16 23:45:15 PI-TEST sshd[9222]: SSH: Server;Ltype: Version;Remote: 10.11.22.87-49267;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Nov 16 23:45:18 PI-TEST sshd[9222]: Accepted keyboard-interactive/pam for root from 10.11.22.87 port 49267 ssh2
+Nov 16 23:45:24 PI-TEST su: + 0 root-orapid
+Nov 16 23:47:27 PI-TEST sshd[9222]: subsystem request for sftp by user root
+Nov 17 00:27:15 PI-TEST sshd[9222]: Received disconnect from 10.11.22.87: 11: Disconnect requested by Windows SSH Client.
+Nov 17 05:04:47 PI-TEST sshd[12459]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-55744;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 17 05:04:47 PI-TEST sshd[12459]: Accepted publickey for root from 10.11.22.226 port 55744 ssh2
