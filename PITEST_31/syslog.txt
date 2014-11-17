@@ -202,3 +202,9 @@ Nov 16 23:47:27 PI-TEST sshd[9222]: subsystem request for sftp by user root
 Nov 17 00:27:15 PI-TEST sshd[9222]: Received disconnect from 10.11.22.87: 11: Disconnect requested by Windows SSH Client.
 Nov 17 05:04:47 PI-TEST sshd[12459]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-55744;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 17 05:04:47 PI-TEST sshd[12459]: Accepted publickey for root from 10.11.22.226 port 55744 ssh2
+Nov 17 05:05:13 PI-TEST sshd[12459]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-55744;IN: 1040;OUT: 176;Duration: 26.0;tPut_in: 40.0;tPut_out: 6.8
+Nov 17 05:05:13 PI-TEST sshd[12536]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-55860;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 17 05:05:14 PI-TEST sshd[12536]: Accepted publickey for root from 10.11.22.226 port 55860 ssh2
+Nov 17 05:05:14 PI-TEST sshd[12536]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-55860;IN: 319632;OUT: 512;Duration: 0.4;tPut_in: 766768.3;tPut_out: 1228.2
+Nov 17 17:04:51 PI-TEST sshd[17864]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-26019;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 17 17:04:52 PI-TEST sshd[17864]: Accepted publickey for root from 10.11.22.226 port 26019 ssh2

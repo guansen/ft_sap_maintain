@@ -69,19 +69,19 @@ Setting:        8192
 Percentage:     1.0
 
 Tunable:        ninode
-Usage:          2391
+Usage:          2376
 Setting:        139264
 Percentage:     1.7
 
 Tunable:        nkthread
-Usage:          1105
+Usage:          1103
 Setting:        250000
 Percentage:     0.4
 
 Tunable:        nproc
-Usage:          295
+Usage:          288
 Setting:        4200
-Percentage:     7.0
+Percentage:     6.9
 
 Tunable:        npty
 Usage:          0
