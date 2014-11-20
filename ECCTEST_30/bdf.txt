@@ -1,18 +1,18 @@
 Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/lvol3    1048576  326272  716688   31% /
 /dev/vg00/lvol1    1835008  530080 1294792   29% /stand
-/dev/vg00/lvol8    8912896 1684952 7177360   19% /var
+/dev/vg00/lvol8    8912896 1685000 7177320   19% /var
 /dev/vg00/lvol7    6389760 3073176 3290760   48% /usr
 /dev/sapvg/trans   20971520 15062268 5540013   73% /usr/sap/trans
-/dev/vg00/ftq_sap  2097152 1649171  420155   80% /usr/sap/FTQ
-/dev/vg00/ftd_sap  5242880 2979425 2122088   58% /usr/sap/FTD
+/dev/vg00/ftq_sap  2097152 1649501  419846   80% /usr/sap/FTQ
+/dev/vg00/ftd_sap  5242880 2978559 2122900   58% /usr/sap/FTD
 /dev/vg00/lvol4    5242880 4023024 1211528   77% /tmp
 /dev/vg00/ftq_sapmnt
-                   5242880 2714221 2371214   53% /sapmnt/FTQ
+                   5242880 2714546 2370843   53% /sapmnt/FTQ
 /dev/vg00/ftd_sapmnt
-                   5242880 2751726 2336001   54% /sapmnt/FTD
+                   5242880 2752009 2335670   54% /sapmnt/FTD
 /dev/vg00/ftd_oracle
-                   6684672 4048462 2482129   62% /oracle
+                   6684672 4048506 2482079   62% /oracle
 /dev/vg00/ftd_stage_102_64
                    10485760 4859494 5274631   48% /oracle/stage/102_64
 /dev/vg00/ftd_client
@@ -32,12 +32,12 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/ftq_origlogA
                     262144  128487  125310   51% /oracle/FTQ/origlogA
 /dev/sapvg/ftq_oraarch
-                   52428800 38724087 12849771   75% /oracle/FTQ/oraarch
+                   52428800 38773284 12803649   75% /oracle/FTQ/oraarch
 /dev/sapvg/ftq_mirrlogB
                     262144  104599  147705   41% /oracle/FTQ/mirrlogB
 /dev/sapvg/ftq_mirrlogA
                     262144  104599  147705   41% /oracle/FTQ/mirrlogA
-/dev/vg00/ftd      5144576 4365632  730267   86% /oracle/FTD
+/dev/vg00/ftd      5144576 4365655  730244   86% /oracle/FTD
 /dev/sapvg/ftd_sapdata5
                    115343360 96535475 17632393   85% /oracle/FTD/sapdata5
 /dev/sapvg/ftd_sapdata4
@@ -45,7 +45,7 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/ftd_mirrlogA
                     262144  104599  147705   41% /oracle/FTD/mirrlogA
 /dev/vg00/ftd_102_64
-                   10485760 5231600 4926409   52% /oracle/FTD/102_64
+                   10485760 5278455 4882482   52% /oracle/FTD/102_64
 /dev/vg00/lvol6    9437184 5513264 3893312   59% /opt
 /dev/vg00/lvol5     131072   13008  117256   10% /home
 /dev/sapvg/ftd_oldoriglogA
