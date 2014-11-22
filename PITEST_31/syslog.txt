@@ -262,3 +262,9 @@ Nov 21 17:05:29 PI-TEST sshd[2891]: Accepted publickey for root from 10.11.22.22
 Nov 21 17:05:30 PI-TEST sshd[2891]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-50509;IN: 329968;OUT: 512;Duration: 0.4;tPut_in: 740821.7;tPut_out: 1149.5
 Nov 22 05:05:04 PI-TEST sshd[8423]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-57657;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 22 05:05:04 PI-TEST sshd[8423]: Accepted publickey for root from 10.11.22.226 port 57657 ssh2
+Nov 22 05:05:27 PI-TEST sshd[8423]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-57657;IN: 1040;OUT: 176;Duration: 23.6;tPut_in: 44.1;tPut_out: 7.5
+Nov 22 05:05:28 PI-TEST sshd[8439]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-57723;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 22 05:05:28 PI-TEST sshd[8439]: Accepted publickey for root from 10.11.22.226 port 57723 ssh2
+Nov 22 05:05:28 PI-TEST sshd[8439]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-57723;IN: 329968;OUT: 512;Duration: 0.4;tPut_in: 787295.1;tPut_out: 1221.6
+Nov 22 17:05:05 PI-TEST sshd[13806]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-1831;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 22 17:05:05 PI-TEST sshd[13806]: Accepted publickey for root from 10.11.22.226 port 1831 ssh2
