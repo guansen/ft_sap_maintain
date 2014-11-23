@@ -280,3 +280,9 @@ Nov 23 05:05:28 PI-TEST sshd[19385]: Accepted publickey for root from 10.11.22.2
 Nov 23 05:05:28 PI-TEST sshd[19385]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-8141;IN: 329968;OUT: 512;Duration: 0.4;tPut_in: 742993.6;tPut_out: 1152.9
 Nov 23 17:05:05 PI-TEST sshd[24757]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15370;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 23 17:05:05 PI-TEST sshd[24757]: Accepted publickey for root from 10.11.22.226 port 15370 ssh2
+Nov 23 17:05:31 PI-TEST sshd[24757]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15370;IN: 1040;OUT: 176;Duration: 25.6;tPut_in: 40.7;tPut_out: 6.9
+Nov 23 17:05:31 PI-TEST sshd[24774]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15463;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 23 17:05:31 PI-TEST sshd[24774]: Accepted publickey for root from 10.11.22.226 port 15463 ssh2
+Nov 23 17:05:31 PI-TEST sshd[24774]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-15463;IN: 329968;OUT: 512;Duration: 0.4;tPut_in: 813414.2;tPut_out: 1262.1
+Nov 24 05:05:05 PI-TEST sshd[383]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-15943;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 24 05:05:05 PI-TEST sshd[383]: Accepted publickey for root from 10.11.22.226 port 15943 ssh2
