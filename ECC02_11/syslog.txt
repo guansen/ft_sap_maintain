@@ -236,3 +236,9 @@ Nov 25 16:48:54 SAPECC02 sshd[11842]: Accepted publickey for root from 10.11.22.
 Nov 25 16:48:54 SAPECC02 sshd[11842]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-55980;IN: 41536;OUT: 320;Duration: 0.2;tPut_in: 185282.1;tPut_out: 1427.4
 Nov 26 04:48:50 SAPECC02 sshd[16424]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-54463;Protocol: 2.0;Client: OpenSSH_4.6
 Nov 26 04:48:50 SAPECC02 sshd[16424]: Accepted publickey for root from 10.11.22.226 port 54463 ssh2
+Nov 26 04:48:50 SAPECC02 sshd[16424]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-54463;IN: 960;OUT: 176;Duration: 0.2;tPut_in: 5795.0;tPut_out: 1062.4
+Nov 26 04:48:50 SAPECC02 sshd[16443]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-54497;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 26 04:48:50 SAPECC02 sshd[16443]: Accepted publickey for root from 10.11.22.226 port 54497 ssh2
+Nov 26 04:48:50 SAPECC02 sshd[16443]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-54497;IN: 41536;OUT: 320;Duration: 0.2;tPut_in: 270813.1;tPut_out: 2086.4
+Nov 26 16:48:55 SAPECC02 sshd[20889]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-25335;Protocol: 2.0;Client: OpenSSH_4.6
+Nov 26 16:48:55 SAPECC02 sshd[20889]: Accepted publickey for root from 10.11.22.226 port 25335 ssh2
