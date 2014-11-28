@@ -1,9 +1,9 @@
 Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/lvol3    1048576  258008  784512   25% /
 /dev/vg00/lvol1    1835008  530472 1294392   29% /stand
-/dev/vg00/lvol8    8912896 6727880 2173624   76% /var
+/dev/vg00/lvol8    8912896 6727928 2173576   76% /var
 /dev/vg00/lvol7    10485760 5321080 5124368   51% /usr
-/dev/vg00/lvol9    15728640 8853177 6446573   58% /usr/sap/PIP
+/dev/vg00/lvol9    15728640 8857019 6442971   58% /usr/sap/PIP
 /dev/vg00/lvol4    5242880 4018360 1215112   77% /tmp
 /dev/vg00/lvol6    9437184 5350952 4054408   57% /opt
 /dev/vg00/lvol5     131072    6952  123264    5% /home
@@ -11,8 +11,8 @@ Filesystem          kbytes    used   avail %used Mounted on
                    20971520 10644393 9682039   52% /usr/sap/trans
 /dev/vgdata/oracle  229376    6310  209248    3% /oracle
 /dev/vgdata/client  327680  117796  196771   37% /oracle/client
-/dev/vgdata/pip    5242880  667282 4291928   13% /oracle/PIP
-/dev/vglog/oraarch 52428800 4734611 44713670   10% /oracle/PIP/oraarch
+/dev/vgdata/pip    5242880  667545 4291651   13% /oracle/PIP
+/dev/vglog/oraarch 52428800 4882196 44575308   10% /oracle/PIP/oraarch
 /dev/vglog/origlogA
                     262144  116967  136110   46% /oracle/PIP/origlogA
 /dev/vglog/origlogB
@@ -21,7 +21,7 @@ Filesystem          kbytes    used   avail %used Mounted on
                     262144  104599  147705   41% /oracle/PIP/mirrlogA
 /dev/vglog/mirrlogB
                     262144  104599  147705   41% /oracle/PIP/mirrlogB
-/dev/vgdata/pip102 10485760 5182813 4972076   51% /oracle/PIP/102_64
+/dev/vgdata/pip102 10485760 5182877 4972016   51% /oracle/PIP/102_64
 /dev/vgdata/sapdata1
                    31457280 10820895 19346615   36% /oracle/PIP/sapdata1
 /dev/vgdata/sapdata2
@@ -34,7 +34,7 @@ Filesystem          kbytes    used   avail %used Mounted on
                    2097152  141720 1833219    7% /oracle/PIP/sapreorg
 /dev/vgdata/102_64 10485760 4859319 5274795   48% /oracle/stage/102_64
 /dev/vgdata/pip_sapmnt
-                   10485760 3664484 6395161   36% /export/sapmnt/PIP
+                   10485760 3664928 6394663   36% /export/sapmnt/PIP
 /dev/vgdata/scs10  6291456  469484 5458194    8% /usr/sap/PIP/SCS10
 /dev/vgdata/ascs11 5242880  469133 4475490    9% /usr/sap/PIP/ASCS11
 /dev/vg00/lvback   97517568  435416 91014523    0% /tmp/oraarch
