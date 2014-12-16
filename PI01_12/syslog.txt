@@ -179,3 +179,9 @@ Dec 16 05:08:01 SAPPI01 sshd[29473]: Accepted publickey for root from 10.11.22.2
 Dec 16 05:08:02 SAPPI01 sshd[29473]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-14243;IN: 412368;OUT: 560;Duration: 0.5;tPut_in: 751384.4;tPut_out: 1020.4
 Dec 16 17:07:51 SAPPI01 sshd[5333]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-57030;Protocol: 2.0;Client: OpenSSH_4.6
 Dec 16 17:07:51 SAPPI01 sshd[5333]: Accepted publickey for root from 10.11.22.226 port 57030 ssh2
+Dec 16 17:08:02 SAPPI01 sshd[5333]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-57030;IN: 960;OUT: 176;Duration: 11.0;tPut_in: 87.5;tPut_out: 16.0
+Dec 16 17:08:02 SAPPI01 sshd[5372]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-57093;Protocol: 2.0;Client: OpenSSH_4.6
+Dec 16 17:08:02 SAPPI01 sshd[5372]: Accepted publickey for root from 10.11.22.226 port 57093 ssh2
+Dec 16 17:08:03 SAPPI01 sshd[5372]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-57093;IN: 412368;OUT: 560;Duration: 0.5;tPut_in: 755008.1;tPut_out: 1025.3
+Dec 17 05:07:49 SAPPI01 sshd[11201]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-31664;Protocol: 2.0;Client: OpenSSH_4.6
+Dec 17 05:07:49 SAPPI01 sshd[11201]: Accepted publickey for root from 10.11.22.226 port 31664 ssh2
