@@ -5210,10 +5210,10 @@
 49470	/oracle/FTD/saptrace/background/core_7538
 49470	/oracle/FTD/saptrace/background/core_7543
 49470	/oracle/FTD/saptrace/background/core_7616
-8096490	/oracle/FTD/saptrace/background
+8135334	/oracle/FTD/saptrace/background
 101786	/oracle/FTD/saptrace/usertrace
 0	/oracle/FTD/saptrace/audit
-8198276	/oracle/FTD/saptrace
+8237120	/oracle/FTD/saptrace
 80	/oracle/FTD/sapbackup/FTD
 507162	/oracle/FTD/sapbackup
 105408	/oracle/FTD/sapcheck
@@ -5226,7 +5226,7 @@
 0	/oracle/FTD/sapbackup.bak
 0	/oracle/FTD/saparch.bak
 0	/oracle/FTD/backup
-389198674	/oracle/FTD
+389237518	/oracle/FTD
 54	/oracle/oraInventory/logs/results/db
 62	/oracle/oraInventory/logs/results
 13550	/oracle/oraInventory/logs
@@ -5236,7 +5236,7 @@
 16094	/oracle/oraInventory
 0	/oracle/tingting
 0	/oracle/FTQ/oraarch/lost+found
-89885638	/oracle/FTQ/oraarch
+90180820	/oracle/FTQ/oraarch
 0	/oracle/FTQ/origlogA/lost+found
 47776	/oracle/FTQ/origlogA/cntrl
 252580	/oracle/FTQ/origlogA
@@ -6580,9 +6580,9 @@
 3574	/oracle/FTQ/102_64/network/tools/help
 1034	/oracle/FTQ/102_64/network/tools/images
 4614	/oracle/FTQ/102_64/network/tools
-18926	/oracle/FTQ/102_64/network/log
+18932	/oracle/FTQ/102_64/network/log
 0	/oracle/FTQ/102_64/network/trace
-58944	/oracle/FTQ/102_64/network
+58950	/oracle/FTQ/102_64/network
 14	/oracle/FTQ/102_64/nls/csscan/sql
 14	/oracle/FTQ/102_64/nls/csscan
 994	/oracle/FTQ/102_64/nls/data/old
@@ -7529,7 +7529,7 @@
 22	/oracle/FTQ/102_64/log/ferrtdev/client
 22	/oracle/FTQ/102_64/log/ferrtdev
 22	/oracle/FTQ/102_64/log
-7404556	/oracle/FTQ/102_64
+7404562	/oracle/FTQ/102_64
 2	/oracle/FTQ/.sw/sessions
 0	/oracle/FTQ/.sw/targets
 0	/oracle/FTQ/.sw/software
@@ -7537,15 +7537,15 @@
 0	/oracle/FTQ/oraflash
 0	/oracle/FTQ/saptrace/background/core_4015
 0	/oracle/FTQ/saptrace/background/core_26420
-570606	/oracle/FTQ/saptrace/background
-9270	/oracle/FTQ/saptrace/usertrace
+570662	/oracle/FTQ/saptrace/background
+9298	/oracle/FTQ/saptrace/usertrace
 0	/oracle/FTQ/saptrace/audit
-579876	/oracle/FTQ/saptrace
+579960	/oracle/FTQ/saptrace
 170	/oracle/FTQ/sapbackup/FTQ
 648	/oracle/FTQ/sapbackup
 48686	/oracle/FTQ/sapcheck
 96	/oracle/FTQ/saparch
-499579166	/oracle/FTQ
+499874438	/oracle/FTQ
 54	/oracle/oraInventory.bak/logs/results/db
 62	/oracle/oraInventory.bak/logs/results
 6920	/oracle/oraInventory.bak/logs
@@ -7553,4 +7553,4 @@
 1264	/oracle/oraInventory.bak/Contents
 6	/oracle/oraInventory.bak/ContentsXML
 8210	/oracle/oraInventory.bak
-898700298	/oracle
+899034414	/oracle
