@@ -1,7 +1,7 @@
 Filesystem          kbytes    used   avail %used Mounted on
-/dev/vg00/lvol3    1048576  348872  694344   33% /
+/dev/vg00/lvol3    1048576  348616  694600   33% /
 /dev/vg00/lvol1    1835008  530680 1294184   29% /stand
-/dev/vg00/lvol8    8912896 5831368 3063264   66% /var
+/dev/vg00/lvol8    8912896 5831176 3063448   66% /var
 /dev/vg00/lvol7    6389760 3153408 3211128   50% /usr
 /dev/vg00/lvol9    15728640 1872930 12989925   13% /usr/sap/FTP
 /dev/vg00/lvol4    5242880 1489120 3724984   29% /tmp
@@ -10,4 +10,4 @@ Filesystem          kbytes    used   avail %used Mounted on
 10.11.51.30:/usr/sap/trans
                    20971520 15062429 5539856   73% /usr/sap/trans
 sapprd:/export/sapmnt/FTP
-                   10485760 4082018 6012046   40% /sapmnt/FTP
+                   10485760 4082267 6011758   40% /sapmnt/FTP
