@@ -1,5 +1,5 @@
 Tunable:        filecache_max
-Usage:          2588344320
+Usage:          2588684288
 Setting:        2606240235
 Percentage:     99.3
 
@@ -14,7 +14,7 @@ Setting:        17179869184
 Percentage:     4.9
 
 Tunable:        maxfiles_lim
-Usage:          112
+Usage:          111
 Setting:        4096
 Percentage:     2.7
 
