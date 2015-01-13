@@ -1,1 +1,1 @@
-  5:31pm  up 138 days,  7:33,  0 users,  load average: 0.00, 0.00, 0.00
+  5:31am  up 138 days, 19:33,  0 users,  load average: 0.00, 0.00, 0.00
