@@ -74,7 +74,7 @@ Setting:        502483
 Percentage:     0.4
 
 Tunable:        nkthread
-Usage:          1154
+Usage:          1155
 Setting:        250000
 Percentage:     0.5
 
