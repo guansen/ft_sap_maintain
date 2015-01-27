@@ -1,7 +1,7 @@
 0	/oracle/lost+found
 0	/oracle/FTP/lost+found
 0	/oracle/FTP/oraarch/lost+found
-103934406	/oracle/FTP/oraarch
+104540416	/oracle/FTP/oraarch
 0	/oracle/FTP/origlogA/lost+found
 15328	/oracle/FTP/origlogA/cntrl
 220132	/oracle/FTP/origlogA
@@ -790,7 +790,7 @@
 68	/oracle/FTP/102_64/ctx/migrate
 0	/oracle/FTP/102_64/ctx/log
 206842	/oracle/FTP/102_64/ctx
-148	/oracle/FTP/102_64/dbs
+152	/oracle/FTP/102_64/dbs
 2	/oracle/FTP/102_64/demo/schema/bus_intelligence
 6	/oracle/FTP/102_64/demo/schema/human_resources
 88	/oracle/FTP/102_64/demo/schema/order_entry/2002/Apr
@@ -1270,9 +1270,9 @@
 3574	/oracle/FTP/102_64/network/tools/help
 1034	/oracle/FTP/102_64/network/tools/images
 4614	/oracle/FTP/102_64/network/tools
-191998	/oracle/FTP/102_64/network/log
+192378	/oracle/FTP/102_64/network/log
 0	/oracle/FTP/102_64/network/trace
-232014	/oracle/FTP/102_64/network
+232394	/oracle/FTP/102_64/network
 14	/oracle/FTP/102_64/nls/csscan/sql
 14	/oracle/FTP/102_64/nls/csscan
 994	/oracle/FTP/102_64/nls/data/old
@@ -2221,7 +2221,7 @@
 74	/oracle/FTP/102_64/log/sapecc02/client
 74	/oracle/FTP/102_64/log/sapecc02
 180	/oracle/FTP/102_64/log
-7578014	/oracle/FTP/102_64
+7578398	/oracle/FTP/102_64
 0	/oracle/FTP/sapdata1/lost+found
 1446144	/oracle/FTP/sapdata1/sysaux_1
 12244000	/oracle/FTP/sapdata1/undo_1
@@ -2280,15 +2280,15 @@
 0	/oracle/FTP/.sw/software
 2	/oracle/FTP/.sw
 0	/oracle/FTP/oraflash
-1336934	/oracle/FTP/saptrace/background
-525202	/oracle/FTP/saptrace/usertrace
+1338458	/oracle/FTP/saptrace/background
+529670	/oracle/FTP/saptrace/usertrace
 0	/oracle/FTP/saptrace/audit
-1862136	/oracle/FTP/saptrace
+1868128	/oracle/FTP/saptrace
 94	/oracle/FTP/sapbackup/FTP
 435910	/oracle/FTP/sapbackup
 101570	/oracle/FTP/sapcheck
 82948	/oracle/FTP/saparch
-627043718	/oracle/FTP
+627656104	/oracle/FTP
 0	/oracle/client/lost+found
 224430	/oracle/client/10x_64/instantclient_10204
 224432	/oracle/client/10x_64
@@ -5196,4 +5196,4 @@
 1264	/oracle/oraInventory/Contents
 6	/oracle/oraInventory/ContentsXML
 7980	/oracle/oraInventory
-636949536	/oracle
+637561922	/oracle
