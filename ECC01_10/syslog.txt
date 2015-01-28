@@ -736,3 +736,9 @@ Jan 28 07:42:01 SAPECC01 vmunix: vxfs: NOTICE: msgcnt 6363 mesg 001: V-2-1: vx_n
 Jan 28 07:52:26 SAPECC01 sshd[256]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-30067;IN: 97776;OUT: 3680;Duration: 671.4;tPut_in: 145.6;tPut_out: 5.5
 Jan 28 17:10:59 SAPECC01 sshd[24620]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-50814;Protocol: 2.0;Client: OpenSSH_4.6
 Jan 28 17:11:00 SAPECC01 sshd[24620]: Accepted publickey for root from 10.11.22.226 port 50814 ssh2
+Jan 28 17:11:03 SAPECC01 sshd[24620]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-50814;IN: 960;OUT: 176;Duration: 3.7;tPut_in: 259.6;tPut_out: 47.6
+Jan 28 17:11:04 SAPECC01 sshd[24640]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-50872;Protocol: 2.0;Client: OpenSSH_4.6
+Jan 28 17:11:04 SAPECC01 sshd[24640]: Accepted publickey for root from 10.11.22.226 port 50872 ssh2
+Jan 28 17:11:04 SAPECC01 sshd[24640]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-50872;IN: 494768;OUT: 608;Duration: 0.5;tPut_in: 1000689.3;tPut_out: 1229.7
+Jan 29 05:10:58 SAPECC01 sshd[3797]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-43176;Protocol: 2.0;Client: OpenSSH_4.6
+Jan 29 05:10:59 SAPECC01 sshd[3797]: Accepted publickey for root from 10.11.22.226 port 43176 ssh2
