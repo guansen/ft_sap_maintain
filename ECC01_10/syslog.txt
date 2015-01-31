@@ -1560,3 +1560,9 @@ Jan 31 07:59:12 SAPECC01 vmunix: vxfs: NOTICE: msgcnt 7915 mesg 001: V-2-1: vx_n
 Jan 31 07:59:41 SAPECC01 vmunix: vxfs: NOTICE: msgcnt 7917 mesg 001: V-2-1: vx_nospace - /dev/vglog/oraarch file system full (1020 block extent)
 Jan 31 17:11:03 SAPECC01 sshd[17291]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-60902;Protocol: 2.0;Client: OpenSSH_4.6
 Jan 31 17:11:03 SAPECC01 sshd[17291]: Accepted publickey for root from 10.11.22.226 port 60902 ssh2
+Jan 31 17:11:07 SAPECC01 sshd[17291]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-60902;IN: 864;OUT: 176;Duration: 4.3;tPut_in: 200.8;tPut_out: 40.9
+Jan 31 17:11:07 SAPECC01 sshd[17310]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-60942;Protocol: 2.0;Client: OpenSSH_4.6
+Jan 31 17:11:08 SAPECC01 sshd[17310]: Accepted publickey for root from 10.11.22.226 port 60942 ssh2
+Jan 31 17:11:10 SAPECC01 sshd[17310]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-60942;IN: 608032;OUT: 704;Duration: 2.1;tPut_in: 285862.4;tPut_out: 331.0
+Feb  1 05:10:25 SAPECC01 sshd[26248]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8129;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  1 05:10:25 SAPECC01 sshd[26248]: Accepted publickey for root from 10.11.22.226 port 8129 ssh2
