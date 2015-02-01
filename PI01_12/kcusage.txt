@@ -1,5 +1,5 @@
 Tunable:        filecache_max
-Usage:          2588991488
+Usage:          2589089792
 Setting:        2606240235
 Percentage:     99.3
 
@@ -44,7 +44,7 @@ Setting:        4096
 Percentage:     1.3
 
 Tunable:        max_thread_proc
-Usage:          269
+Usage:          270
 Setting:        3000
 Percentage:     9.0
 
@@ -79,7 +79,7 @@ Setting:        250000
 Percentage:     0.5
 
 Tunable:        nproc
-Usage:          298
+Usage:          297
 Setting:        4200
 Percentage:     7.1
 
