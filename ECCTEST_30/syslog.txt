@@ -1084,3 +1084,9 @@ Feb  2 07:20:19 ferrtdev vmunix: vxfs: NOTICE: msgcnt 261825 mesg 001: V-2-1: vx
 Feb  2 07:21:19 ferrtdev vmunix: vxfs: NOTICE: msgcnt 261827 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (740 block extent)
 Feb  2 16:30:52 ferrtdev sshd[5400]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-48290;Protocol: 2.0;Client: OpenSSH_4.6
 Feb  2 16:30:53 ferrtdev sshd[5400]: Accepted publickey for root from 10.11.22.226 port 48290 ssh2
+Feb  2 16:31:03 ferrtdev sshd[5400]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-48290;IN: 1040;OUT: 176;Duration: 10.8;tPut_in: 96.4;tPut_out: 16.3
+Feb  2 16:31:04 ferrtdev sshd[5417]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-48334;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  2 16:31:04 ferrtdev sshd[5417]: Accepted publickey for root from 10.11.22.226 port 48334 ssh2
+Feb  2 16:31:04 ferrtdev sshd[5417]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-48334;IN: 700768;OUT: 752;Duration: 0.7;tPut_in: 1074522.2;tPut_out: 1153.1
+Feb  3 04:30:52 ferrtdev sshd[9918]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-61369;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  3 04:30:52 ferrtdev sshd[9918]: Accepted publickey for root from 10.11.22.226 port 61369 ssh2
