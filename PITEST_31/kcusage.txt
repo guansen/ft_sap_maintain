@@ -1,5 +1,5 @@
 Tunable:        filecache_max
-Usage:          1623117824
+Usage:          1624608768
 Setting:        2606240235
 Percentage:     62.3
 
@@ -79,9 +79,9 @@ Setting:        250000
 Percentage:     0.4
 
 Tunable:        nproc
-Usage:          292
+Usage:          291
 Setting:        4200
-Percentage:     7.0
+Percentage:     6.9
 
 Tunable:        npty
 Usage:          0
