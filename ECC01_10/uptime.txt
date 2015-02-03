@@ -1,1 +1,1 @@
-  5:10pm  up 179 days, 37 mins,  1 user,  load average: 0.02, 0.02, 0.02
+  5:10am  up 179 days, 12:37,  1 user,  load average: 0.02, 0.02, 0.02
