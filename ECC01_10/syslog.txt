@@ -64,3 +64,13 @@ Feb  5 17:10:18 SAPECC01 sshd[17256]: Accepted publickey for root from 10.11.22.
 Feb  5 17:10:19 SAPECC01 sshd[17256]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-64452;IN: 402032;OUT: 560;Duration: 0.6;tPut_in: 630713.6;tPut_out: 878.5
 Feb  6 05:10:13 SAPECC01 sshd[26230]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2306;Protocol: 2.0;Client: OpenSSH_4.6
 Feb  6 05:10:13 SAPECC01 sshd[26230]: Accepted publickey for root from 10.11.22.226 port 2306 ssh2
+Feb  6 05:10:16 SAPECC01 sshd[26230]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-2306;IN: 960;OUT: 176;Duration: 3.7;tPut_in: 259.7;tPut_out: 47.6
+Feb  6 05:10:17 SAPECC01 sshd[26263]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2338;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  6 05:10:17 SAPECC01 sshd[26263]: Accepted publickey for root from 10.11.22.226 port 2338 ssh2
+Feb  6 05:10:18 SAPECC01 sshd[26263]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-2338;IN: 402032;OUT: 560;Duration: 0.8;tPut_in: 517354.5;tPut_out: 720.6
+Feb  6 11:37:38 SAPECC01 sshd[3279]: SSH: Server;Ltype: Version;Remote: 10.11.53.31-50541;Protocol: 2.0;Client: PuTTY_Release_0.60
+Feb  6 11:38:07 SAPECC01 sshd[3279]: Accepted keyboard-interactive/pam for root from 10.11.53.31 port 50541 ssh2
+Feb  6 12:37:49 SAPECC01 sshd[3279]: SSH: Server;Ltype: Kex;Remote: 10.11.53.31-50541;Enc: aes256-ctr;MAC: hmac-sha1;Comp: none
+Feb  6 15:52:43 SAPECC01 sshd[3279]: Connection closed by 10.11.53.31
+Feb  6 17:10:10 SAPECC01 sshd[4096]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4885;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  6 17:10:11 SAPECC01 sshd[4096]: Accepted publickey for root from 10.11.22.226 port 4885 ssh2
