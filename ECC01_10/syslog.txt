@@ -74,3 +74,9 @@ Feb  6 12:37:49 SAPECC01 sshd[3279]: SSH: Server;Ltype: Kex;Remote: 10.11.53.31-
 Feb  6 15:52:43 SAPECC01 sshd[3279]: Connection closed by 10.11.53.31
 Feb  6 17:10:10 SAPECC01 sshd[4096]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4885;Protocol: 2.0;Client: OpenSSH_4.6
 Feb  6 17:10:11 SAPECC01 sshd[4096]: Accepted publickey for root from 10.11.22.226 port 4885 ssh2
+Feb  6 17:10:14 SAPECC01 sshd[4096]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-4885;IN: 832;OUT: 176;Duration: 3.5;tPut_in: 240.1;tPut_out: 50.8
+Feb  6 17:10:14 SAPECC01 sshd[4129]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4922;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  6 17:10:14 SAPECC01 sshd[4129]: Accepted publickey for root from 10.11.22.226 port 4922 ssh2
+Feb  6 17:10:15 SAPECC01 sshd[4129]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-4922;IN: 402032;OUT: 560;Duration: 0.5;tPut_in: 858916.4;tPut_out: 1196.4
+Feb  7 05:10:11 SAPECC01 sshd[11096]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-7355;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  7 05:10:12 SAPECC01 sshd[11096]: Accepted publickey for root from 10.11.22.226 port 7355 ssh2
