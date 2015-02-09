@@ -1144,3 +1144,9 @@ Feb  7 04:31:04 ferrtdev sshd[15502]: Accepted publickey for root from 10.11.22.
 Feb  7 04:31:05 ferrtdev sshd[15502]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-7726;IN: 700768;OUT: 752;Duration: 0.9;tPut_in: 793143.8;tPut_out: 851.1
 Feb  9 16:31:09 ferrtdev sshd[7594]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2777;Protocol: 2.0;Client: OpenSSH_4.6
 Feb  9 16:31:09 ferrtdev sshd[7594]: Accepted publickey for root from 10.11.22.226 port 2777 ssh2
+Feb  9 16:31:29 ferrtdev sshd[7594]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-2777;IN: 912;OUT: 176;Duration: 20.0;tPut_in: 45.6;tPut_out: 8.8
+Feb  9 16:31:29 ferrtdev sshd[7610]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2825;Protocol: 2.0;Client: OpenSSH_4.6
+Feb  9 16:31:29 ferrtdev sshd[7610]: Accepted publickey for root from 10.11.22.226 port 2825 ssh2
+Feb  9 16:31:30 ferrtdev sshd[7610]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-2825;IN: 700768;OUT: 752;Duration: 0.8;tPut_in: 933945.2;tPut_out: 1002.2
+Feb 10 04:31:06 ferrtdev sshd[12062]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14876;Protocol: 2.0;Client: OpenSSH_4.6
+Feb 10 04:31:06 ferrtdev sshd[12062]: Accepted publickey for root from 10.11.22.226 port 14876 ssh2
