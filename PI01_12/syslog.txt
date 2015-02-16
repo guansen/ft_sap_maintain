@@ -149,3 +149,9 @@ Feb 15 17:04:20 SAPPI01 sshd[26405]: Accepted publickey for root from 10.11.22.2
 Feb 15 17:04:20 SAPPI01 sshd[26405]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-12990;IN: 412368;OUT: 560;Duration: 0.6;tPut_in: 726443.9;tPut_out: 986.5
 Feb 16 05:04:07 SAPPI01 sshd[2393]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-26642;Protocol: 2.0;Client: OpenSSH_4.6
 Feb 16 05:04:08 SAPPI01 sshd[2393]: Accepted publickey for root from 10.11.22.226 port 26642 ssh2
+Feb 16 05:04:18 SAPPI01 sshd[2393]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-26642;IN: 960;OUT: 176;Duration: 10.1;tPut_in: 94.7;tPut_out: 17.4
+Feb 16 05:04:18 SAPPI01 sshd[2450]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-26681;Protocol: 2.0;Client: OpenSSH_4.6
+Feb 16 05:04:18 SAPPI01 sshd[2450]: Accepted publickey for root from 10.11.22.226 port 26681 ssh2
+Feb 16 05:04:19 SAPPI01 sshd[2450]: SSH: Server;LType: Throughput;Remote: 10.11.22.226-26681;IN: 412368;OUT: 560;Duration: 0.5;tPut_in: 757701.8;tPut_out: 1029.0
+Feb 16 17:04:06 SAPPI01 sshd[8123]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-41272;Protocol: 2.0;Client: OpenSSH_4.6
+Feb 16 17:04:06 SAPPI01 sshd[8123]: Accepted publickey for root from 10.11.22.226 port 41272 ssh2
