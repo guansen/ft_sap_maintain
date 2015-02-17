@@ -1,21 +1,21 @@
 Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/lvol3    1048576 1034960   13520   99% /
 /dev/vg00/lvol1    1835008  530088 1294784   29% /stand
-/dev/vg00/lvol8    8912896 1794352 7068760   20% /var
+/dev/vg00/lvol8    8912896 1794664 7068448   20% /var
 /dev/vg00/lvol7    10485760 5216264 5228416   50% /usr
 /dev/sapvg/pid_trans
                    20971520 10644393 9682039   52% /usr/sap/trans
-/dev/vg00/piq_sap  10485760 6175025 4041640   60% /usr/sap/PIQ
+/dev/vg00/piq_sap  10485760 6175099 4041571   60% /usr/sap/PIQ
 /dev/vg00/pid_sap  10485760 7242065 3041487   70% /usr/sap/PID
 /dev/vg00/lvol4    5242880 4313376  923216   82% /tmp
 /dev/vg00/piq_sapmnt
-                   10485760 3612398 6443878   36% /sapmnt/PIQ
+                   10485760 3612034 6444284   36% /sapmnt/PIQ
 /dev/vg00/pid_sapmnt
                    10485760 4164924 5925880   41% /sapmnt/PID
-/dev/vg00/oracle   15728640 12886535 2664572   83% /oracle
+/dev/vg00/oracle   15728640 12886561 2664544   83% /oracle
 /dev/vg00/oracle_client
                     327680  233379   88409   73% /oracle/client
-/dev/vg00/piq_piq  6291456 5117624 1100468   82% /oracle/PIQ
+/dev/vg00/piq_piq  6291456 5117904 1100206   82% /oracle/PIQ
 /dev/sapvg/piq_sapreorg
                    2097152  141723 1833217    7% /oracle/PIQ/sapreorg
 /dev/sapvg/piq_sapdata4
@@ -31,7 +31,7 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/piq_origlogA
                    2097152  117416 1856009    6% /oracle/PIQ/origlogA
 /dev/sapvg/piq_oraarch
-                   52428800 16020444 34133144   32% /oracle/PIQ/oraarch
+                   52428800 16168042 33994771   32% /oracle/PIQ/oraarch
 /dev/sapvg/piq_mirrlogB
                    2097152  105048 1867604    5% /oracle/PIQ/mirrlogB
 /dev/sapvg/piq_mirrlogA
@@ -51,7 +51,7 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/pid_origlogA
                    3145728  120873 2835808    4% /oracle/PID/origlogA
 /dev/sapvg/pid_oraarch
-                   52428800 5246484 44233787   11% /oracle/PID/oraarch
+                   52428800 5295674 44187671   11% /oracle/PID/oraarch
 /dev/sapvg/pid_mirrlogB
                    3145728  105305 2850404    4% /oracle/PID/mirrlogB
 /dev/sapvg/pid_mirrlogA
