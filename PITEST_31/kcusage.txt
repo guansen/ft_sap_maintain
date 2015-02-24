@@ -1,7 +1,7 @@
 Tunable:        filecache_max
-Usage:          1621430272
+Usage:          1617031168
 Setting:        2606240235
-Percentage:     62.2
+Percentage:     62.0
 
 Tunable:        maxdsiz
 Usage:          9830400
