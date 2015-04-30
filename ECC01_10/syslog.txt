@@ -391,3 +391,9 @@ Apr 29 09:21:14 SAPECC01 sshd[23221]: Accepted keyboard-interactive/pam for root
 Apr 29 09:21:22 SAPECC01 sshd[23221]: Received disconnect from 10.11.22.226: 11: disconnected by user
 Apr 29 19:06:22 SAPECC01 sshd[19190]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-63372;Protocol: 2.0;Client: OpenSSH_6.6.1
 Apr 29 19:06:22 SAPECC01 sshd[19190]: Accepted publickey for root from 10.11.22.226 port 63372 ssh2
+Apr 29 19:06:26 SAPECC01 sshd[19190]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Apr 29 19:06:26 SAPECC01 sshd[19223]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-63421;Protocol: 2.0;Client: OpenSSH_6.6.1
+Apr 29 19:06:26 SAPECC01 sshd[19223]: Accepted publickey for root from 10.11.22.226 port 63421 ssh2
+Apr 29 19:06:27 SAPECC01 sshd[19223]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Apr 30 07:06:22 SAPECC01 sshd[28176]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-61597;Protocol: 2.0;Client: OpenSSH_6.6.1
+Apr 30 07:06:22 SAPECC01 sshd[28176]: Accepted publickey for root from 10.11.22.226 port 61597 ssh2

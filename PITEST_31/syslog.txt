@@ -388,3 +388,9 @@ Apr 29 09:22:03 PI-TEST su: + 0 root-orapiq
 Apr 29 09:23:04 PI-TEST sshd[6084]: Received disconnect from 10.11.22.226: 11: disconnected by user
 Apr 29 19:03:24 PI-TEST sshd[10827]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-49570;Protocol: 2.0;Client: OpenSSH_6.6.1
 Apr 29 19:03:24 PI-TEST sshd[10827]: Accepted publickey for root from 10.11.22.226 port 49570 ssh2
+Apr 29 19:03:51 PI-TEST sshd[10827]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Apr 29 19:03:51 PI-TEST sshd[10843]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-49722;Protocol: 2.0;Client: OpenSSH_6.6.1
+Apr 29 19:03:51 PI-TEST sshd[10843]: Accepted publickey for root from 10.11.22.226 port 49722 ssh2
+Apr 29 19:03:52 PI-TEST sshd[10843]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Apr 30 07:03:14 PI-TEST sshd[16417]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-64136;Protocol: 2.0;Client: OpenSSH_6.6.1
+Apr 30 07:03:15 PI-TEST sshd[16417]: Accepted publickey for root from 10.11.22.226 port 64136 ssh2
