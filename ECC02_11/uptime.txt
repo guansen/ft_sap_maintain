@@ -1,1 +1,1 @@
-  6:37pm  up 270 days,  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+  6:37am  up 270 days, 13:05,  1 user,  load average: 0.00, 0.00, 0.00
