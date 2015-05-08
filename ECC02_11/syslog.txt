@@ -77,3 +77,9 @@ May  7 18:37:51 SAPECC02 sshd[29611]: Accepted publickey for root from 10.11.22.
 May  7 18:37:51 SAPECC02 sshd[29611]: Received disconnect from 10.11.22.226: 11: disconnected by user
 May  8 06:37:44 SAPECC02 sshd[4397]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-51025;Protocol: 2.0;Client: OpenSSH_6.6.1
 May  8 06:37:44 SAPECC02 sshd[4397]: Accepted publickey for root from 10.11.22.226 port 51025 ssh2
+May  8 06:37:45 SAPECC02 sshd[4397]: Received disconnect from 10.11.22.226: 11: disconnected by user
+May  8 06:37:45 SAPECC02 sshd[4416]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-51060;Protocol: 2.0;Client: OpenSSH_6.6.1
+May  8 06:37:46 SAPECC02 sshd[4416]: Accepted publickey for root from 10.11.22.226 port 51060 ssh2
+May  8 06:37:46 SAPECC02 sshd[4416]: Received disconnect from 10.11.22.226: 11: disconnected by user
+May  8 18:37:42 SAPECC02 sshd[8875]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-60398;Protocol: 2.0;Client: OpenSSH_6.6.1
+May  8 18:37:42 SAPECC02 sshd[8875]: Accepted publickey for root from 10.11.22.226 port 60398 ssh2
