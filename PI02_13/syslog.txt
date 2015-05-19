@@ -161,3 +161,9 @@ May 18 07:27:00 SAPPI02 sshd[26406]: Accepted publickey for root from 10.11.22.2
 May 18 07:27:01 SAPPI02 sshd[26406]: Received disconnect from 10.11.22.226: 11: disconnected by user
 May 18 19:27:01 SAPPI02 sshd[602]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-49519;Protocol: 2.0;Client: OpenSSH_6.6.1
 May 18 19:27:01 SAPPI02 sshd[602]: Accepted publickey for root from 10.11.22.226 port 49519 ssh2
+May 18 19:27:02 SAPPI02 sshd[602]: Received disconnect from 10.11.22.226: 11: disconnected by user
+May 18 19:27:02 SAPPI02 sshd[628]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-49552;Protocol: 2.0;Client: OpenSSH_6.6.1
+May 18 19:27:02 SAPPI02 sshd[628]: Accepted publickey for root from 10.11.22.226 port 49552 ssh2
+May 18 19:27:03 SAPPI02 sshd[628]: Received disconnect from 10.11.22.226: 11: disconnected by user
+May 19 07:26:59 SAPPI02 sshd[4942]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-51170;Protocol: 2.0;Client: OpenSSH_6.6.1
+May 19 07:26:59 SAPPI02 sshd[4942]: Accepted publickey for root from 10.11.22.226 port 51170 ssh2
