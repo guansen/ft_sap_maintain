@@ -251,3 +251,9 @@ May 25 19:02:37 PI-TEST sshd[26489]: Accepted publickey for root from 10.11.22.2
 May 25 19:02:38 PI-TEST sshd[26489]: Received disconnect from 10.11.22.226: 11: disconnected by user
 May 26 07:02:09 PI-TEST sshd[2168]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-60808;Protocol: 2.0;Client: OpenSSH_6.6.1
 May 26 07:02:09 PI-TEST sshd[2168]: Accepted publickey for root from 10.11.22.226 port 60808 ssh2
+May 26 07:02:36 PI-TEST sshd[2168]: Received disconnect from 10.11.22.226: 11: disconnected by user
+May 26 07:02:36 PI-TEST sshd[2186]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-60853;Protocol: 2.0;Client: OpenSSH_6.6.1
+May 26 07:02:37 PI-TEST sshd[2186]: Accepted publickey for root from 10.11.22.226 port 60853 ssh2
+May 26 07:02:37 PI-TEST sshd[2186]: Received disconnect from 10.11.22.226: 11: disconnected by user
+May 26 19:02:12 PI-TEST sshd[7593]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-52594;Protocol: 2.0;Client: OpenSSH_6.6.1
+May 26 19:02:12 PI-TEST sshd[7593]: Accepted publickey for root from 10.11.22.226 port 52594 ssh2
