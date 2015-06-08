@@ -9,7 +9,7 @@ Setting:        1073741824
 Percentage:     4.3
 
 Tunable:        maxdsiz_64bit
-Usage:          364183552
+Usage:          364576768
 Setting:        17179869184
 Percentage:     2.1
 
@@ -39,7 +39,7 @@ Setting:        1073741824
 Percentage:     18.8
 
 Tunable:        maxuprc
-Usage:          65
+Usage:          64
 Setting:        4096
 Percentage:     1.6
 
@@ -69,12 +69,12 @@ Setting:        8192
 Percentage:     0.7
 
 Tunable:        ninode
-Usage:          1729
+Usage:          1725
 Setting:        139264
 Percentage:     1.2
 
 Tunable:        nkthread
-Usage:          888
+Usage:          887
 Setting:        250000
 Percentage:     0.4
 
