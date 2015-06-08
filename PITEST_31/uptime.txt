@@ -1,1 +1,1 @@
-  7:02pm  up 303 days,  3:05,  1 user,  load average: 0.01, 0.01, 0.01
+  7:01am  up 303 days, 15:04,  1 user,  load average: 0.01, 0.01, 0.01
