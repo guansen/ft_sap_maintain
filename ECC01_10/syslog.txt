@@ -3957,3 +3957,9 @@ Jun  8 09:35:26 SAPECC01 vmunix: vxfs: NOTICE: msgcnt 15657 mesg 001: V-2-1: vx_
 Jun  8 12:13:51 SAPECC01 sshd[27983]: SSH: Server;LType: Throughput;Remote: 10.11.22.108-42975;IN: 447028;OUT: 27400;Duration: 14527.9;tPut_in: 30.8;tPut_out: 1.9
 Jun  8 19:03:56 SAPECC01 sshd[429]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-52030;Protocol: 2.0;Client: OpenSSH_6.6.1
 Jun  8 19:03:56 SAPECC01 sshd[429]: Accepted publickey for root from 10.11.22.226 port 52030 ssh2
+Jun  8 19:04:00 SAPECC01 sshd[429]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Jun  8 19:04:01 SAPECC01 sshd[448]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-52065;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun  8 19:04:01 SAPECC01 sshd[448]: Accepted publickey for root from 10.11.22.226 port 52065 ssh2
+Jun  8 19:04:02 SAPECC01 sshd[448]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Jun  9 07:03:56 SAPECC01 sshd[9479]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-58726;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun  9 07:03:56 SAPECC01 sshd[9479]: Accepted publickey for root from 10.11.22.226 port 58726 ssh2
