@@ -1,1 +1,1 @@
-  6:34pm  up 311 days,  1:02,  1 user,  load average: 0.00, 0.00, 0.00
+  6:34am  up 311 days, 13:02,  1 user,  load average: 0.00, 0.00, 0.00
