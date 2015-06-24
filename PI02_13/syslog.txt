@@ -131,3 +131,35 @@ Jun 16 07:26:07 SAPPI02 sshd[280]: Accepted publickey for root from 10.11.22.226
 Jun 16 07:26:08 SAPPI02 sshd[280]: Received disconnect from 10.11.22.226: 11: disconnected by user
 Jun 23 16:30:43 SAPPI02 sshd[1888]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-4162;Protocol: 2.0;Client: OpenSSH_6.6.1
 Jun 23 16:30:44 SAPPI02 sshd[1888]: Accepted publickey for root from 10.11.22.225 port 4162 ssh2
+Jun 23 16:30:45 SAPPI02 sshd[1888]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 23 16:30:45 SAPPI02 sshd[1914]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-4193;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 23 16:30:46 SAPPI02 sshd[1914]: Accepted publickey for root from 10.11.22.225 port 4193 ssh2
+Jun 23 16:30:46 SAPPI02 sshd[1914]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 24 11:19:00 SAPPI02 cmcld[3901]: Request from node SAPPI01 to disable global switching for package PIpkg.
+Jun 24 11:19:14 SAPPI02 cmcld[3901]: (SAPPI01) Halted package PIpkg on node SAPPI01.
+Jun 24 11:22:42 SAPPI02 cmcld[3901]: Closing route 192.168.1.1:5300 on fd 35 to SAPPI01: Software caused connection abort
+Jun 24 11:22:42 SAPPI02 cmcld[3901]: Closing route 10.11.51.12:5300 on fd 32 to SAPPI01: Software caused connection abort
+Jun 24 11:22:42 SAPPI02 cmcld[3901]: Requesting cluster reformation for synchronization
+Jun 24 11:19:14 SAPPI02 cmcld[3901]: Request from node SAPPI01 to disable global switching for package PIpkg.
+Jun 24 11:22:44 SAPPI02 cmcld[3901]: Member SAPPI01 seems unhealthy, not receiving heartbeats from it.
+Jun 24 11:22:56 SAPPI02 cmcld[3901]: Timed out unhealthy member(s).
+Jun 24 11:22:56 SAPPI02 cmcld[3901]: Lost heartbeat to SAPPI01
+Jun 24 11:22:56 SAPPI02 cmcld[3901]: Resolving quorum with members SAPPI02
+Jun 24 11:22:56 SAPPI02 cmcld[3901]: Membership: membership at 1 is REFORMING (coordinator 2) includes: 2 excludes: 1
+Jun 24 11:22:56 SAPPI02 cmdisklockd[3904]: Obtaining cluster lock device /dev/dsk/c15t0d1
+Jun 24 11:22:56 SAPPI02 cmdisklockd[3904]: Successfully obtained the lock at /dev/dsk/c15t0d1!
+Jun 24 11:22:57 SAPPI02 cmcld[3901]: Sending file $SGRUN/frdump.cmcld.6 (512096 bytes) to file assistant daemon.
+Jun 24 11:22:57 SAPPI02 cmfileassistd[3915]: Updated file /var/adm/cmcluster/frdump.cmcld.6 (length = 512096).
+Jun 24 11:23:00 SAPPI02 cmdisklockd[3904]: Clearing cluster lock device /dev/dsk/c15t0d1
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: Membership: membership at 2 is FORMED (coordinator 2) includes: 2 excludes: 1
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: The following node(s) SAPPI01(id=1), left the cluster.
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: 1 nodes have formed a new cluster, sequence #2
+Jun 24 11:23:00 SAPPI02 cmdisklockd[3904]: Cluster lock clear completed for /dev/dsk/c15t0d1
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: The new active cluster membership is: SAPPI02(id=2)
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: Cluster CDB version 10 and node 2 CDB version 10
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: One or more packages or package instances are not currently running. These packages have AUTO_RUN disabled so that no new instance can start automatically. To allow automatic start, enable AUTO_RUN via cmmodpkg -e <Package_Name>.
+Jun 24 11:23:00 SAPPI02 cmcld[3901]: Received clear reply in state clearing
+Jun 24 11:23:01 SAPPI02 cmcld[3901]: Sending file $SGRUN/frdump.cmcld.7 (32563 bytes) to file assistant daemon.
+Jun 24 11:23:01 SAPPI02 cmfileassistd[3915]: Updated file /var/adm/cmcluster/frdump.cmcld.7 (length = 32563).
+Jun 24 11:26:13 SAPPI02 sshd[8588]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-2738;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 24 11:26:13 SAPPI02 sshd[8588]: Accepted publickey for root from 10.11.22.225 port 2738 ssh2

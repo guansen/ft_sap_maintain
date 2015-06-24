@@ -19433,3 +19433,20 @@ Jun 23 15:27:36 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562357 mesg 001: V-2-1: vx
 Jun 23 15:28:29 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562359 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
 Jun 23 15:29:19 ferrtdev sshd[13599]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-4240;Protocol: 2.0;Client: OpenSSH_6.6.1
 Jun 23 15:29:19 ferrtdev sshd[13599]: Accepted publickey for root from 10.11.22.225 port 4240 ssh2
+Jun 23 15:29:29 ferrtdev sshd[13599]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 23 15:29:29 ferrtdev sshd[13615]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-4277;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 23 15:29:29 ferrtdev sshd[13615]: Accepted publickey for root from 10.11.22.225 port 4277 ssh2
+Jun 23 15:29:29 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562361 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:29:33 ferrtdev sshd[13615]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 23 15:30:30 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562363 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:31:30 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562365 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:32:30 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562367 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:32:37 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562369 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:32:51 ferrtdev sshd[13621]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-4830;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 23 15:32:51 ferrtdev sshd[13621]: Accepted publickey for root from 10.11.22.225 port 4830 ssh2
+Jun 23 15:33:30 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562371 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:34:30 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562373 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 15:35:30 ferrtdev vmunix: vxfs: NOTICE: msgcnt 562375 mesg 001: V-2-1: vx_nospace - /dev/vg00/ftd_102_64 file system full (534 block extent)
+Jun 23 16:09:16 ferrtdev sshd[13621]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 24 10:24:47 ferrtdev sshd[20638]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-2814;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 24 10:24:48 ferrtdev sshd[20638]: Accepted publickey for root from 10.11.22.225 port 2814 ssh2
