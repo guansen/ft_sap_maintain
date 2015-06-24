@@ -163,3 +163,29 @@ Jun 24 11:23:01 SAPPI02 cmcld[3901]: Sending file $SGRUN/frdump.cmcld.7 (32563 b
 Jun 24 11:23:01 SAPPI02 cmfileassistd[3915]: Updated file /var/adm/cmcluster/frdump.cmcld.7 (length = 32563).
 Jun 24 11:26:13 SAPPI02 sshd[8588]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-2738;Protocol: 2.0;Client: OpenSSH_6.6.1
 Jun 24 11:26:13 SAPPI02 sshd[8588]: Accepted publickey for root from 10.11.22.225 port 2738 ssh2
+Jun 24 11:26:14 SAPPI02 sshd[8588]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 24 11:26:14 SAPPI02 sshd[8613]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-2767;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 24 11:26:14 SAPPI02 sshd[8613]: Accepted publickey for root from 10.11.22.225 port 2767 ssh2
+Jun 24 11:26:15 SAPPI02 sshd[8613]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 24 13:06:53 SAPPI02 sshd[9170]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-10266;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Jun 24 13:06:55 SAPPI02 sshd[9170]: Invalid user ROOT from 10.11.22.225
+Jun 24 13:06:59 SAPPI02 sshd[9170]: error: PAM: No account present for user for illegal user ROOT from 10.11.22.225
+Jun 24 13:06:59 SAPPI02 sshd[9170]: Failed keyboard-interactive/pam for invalid user ROOT from 10.11.22.225 port 10266 ssh2
+Jun 24 13:07:05 SAPPI02 sshd[9172]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-10267;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Jun 24 13:07:09 SAPPI02 sshd[9172]: Accepted keyboard-interactive/pam for root from 10.11.22.225 port 10267 ssh2
+Jun 24 13:07:37 SAPPI02 su: + 0 root-orapip
+Jun 24 13:08:07 SAPPI02 automountd[1515]: server piprd not responding
+Jun 24 13:09:05 SAPPI02 sshd[9172]: SSH: Server;LType: Throughput;Remote: 10.11.22.225-10267;IN: 12256;OUT: 10528;Duration: 116.6;tPut_in: 105.1;tPut_out: 90.3
+Jun 24 13:08:23 SAPPI02 automountd[1515]: server piprd not responding
+Jun 24 13:15:05 SAPPI02  above message repeats 87 times
+Jun 24 14:01:43 SAPPI02 sshd[9652]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-10610;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Jun 24 15:16:32 SAPPI02 sshd[10063]: SSH: Server;Ltype: Version;Remote: 10.11.22.126-56150;Protocol: 2.0;Client: SecureCRT_6.5.0 (build 380) SecureCRT
+Jun 24 15:16:35 SAPPI02 sshd[10063]: Accepted password for root from 10.11.22.126 port 56150 ssh2
+Jun 24 15:16:51 SAPPI02 su: + 0 root-orapip
+Jun 24 15:17:22 SAPPI02 automountd[1515]: server piprd not responding
+Jun 24 15:19:12 SAPPI02 sshd[10063]: SSH: Server;LType: Throughput;Remote: 10.11.22.126-56150;IN: 8532;OUT: 4204;Duration: 157.1;tPut_in: 54.3;tPut_out: 26.8
+Jun 24 15:17:22 SAPPI02 automountd[1515]: server piprd not responding
+Jun 24 15:35:06 SAPPI02  above message repeats 83 times
+Jun 24 16:07:47 SAPPI02 sshd[10592]: SSH: Server;Ltype: Version;Remote: 10.11.22.126-53960;Protocol: 2.0;Client: SecureCRT_6.5.0 (build 380) SecureCRT
+Jun 24 23:25:33 SAPPI02 sshd[13111]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-18938;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 24 23:25:33 SAPPI02 sshd[13111]: Accepted publickey for root from 10.11.22.225 port 18938 ssh2
