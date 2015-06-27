@@ -1,7 +1,7 @@
 Filesystem          kbytes    used   avail %used Mounted on
 /dev/vg00/lvol3    1048576  258040  784480   25% /
 /dev/vg00/lvol1    1835008  530472 1294392   29% /stand
-/dev/vg00/lvol8    8912896 7440792 1466288   84% /var
+/dev/vg00/lvol8    8912896 7442888 1464208   84% /var
 /dev/vg00/lvol7    10485760 5321080 5124368   51% /usr
 /dev/vg00/lvol9    15728640 13765416 1841348   88% /usr/sap/PIP
 /dev/vg00/lvol4    5242880 4018360 1215120   77% /tmp
