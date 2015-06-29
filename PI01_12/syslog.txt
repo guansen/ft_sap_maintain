@@ -314,3 +314,84 @@ Jun 27 22:57:04 SAPPI01 sshd[24884]: Accepted publickey for root from 10.11.22.2
 Jun 27 22:57:04 SAPPI01 sshd[24884]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Jun 29 10:57:12 SAPPI01 sshd[7487]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-5284;Protocol: 2.0;Client: OpenSSH_6.6.1
 Jun 29 10:57:13 SAPPI01 sshd[7487]: Accepted publickey for root from 10.11.22.225 port 5284 ssh2
+Jun 29 10:57:13 SAPPI01 sshd[7487]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 29 10:57:13 SAPPI01 sshd[7512]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-5315;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 29 10:57:13 SAPPI01 sshd[7512]: Accepted publickey for root from 10.11.22.225 port 5315 ssh2
+Jun 29 10:57:14 SAPPI01 sshd[7512]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 29 14:07:51 SAPPI01 sshd[8604]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-8703;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 29 14:07:52 SAPPI01 sshd[8604]: Accepted publickey for root from 10.11.22.225 port 8703 ssh2
+Jun 29 15:25:21 SAPPI01 sshd[9089]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19786;Protocol: 1.99;Client: 3.2.9 SSH Secure Shell for Windows
+Jun 29 15:25:28 SAPPI01 sshd[9089]: Accepted keyboard-interactive/pam for root from 10.11.22.226 port 19786 ssh2
+Jun 29 15:27:53 SAPPI01 syslog: cmruncl -v 
+Jun 29 15:27:58 SAPPI01 cmclconfd[9116]: Request from root on node SAPPI01 to start the cluster on this node
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Daemon Initialization - Maximum number of packages supported for this incarnation is 300.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Global Cluster Information:
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Network Polling Interval is 2.00 seconds.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: IO Timeout Extension is 0.00 seconds.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Auto Start Timeout is 600.00 seconds.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Failover Optimization is disabled.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Information Specific to node SAPPI01:
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Cluster lock disk: /dev/dsk/c25t0d1.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: lan0  0xb499ba64c0bc  192.168.1.1  bridged net:1
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: lan900  0xb499ba64c0c0  10.11.51.12  bridged net:2
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: lan3  0xb499ba64c0c8    standby    bridged net:2
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Heartbeat Subnet: 192.168.1.0
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Heartbeat Subnet: 10.11.51.0
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Configured quorum disk(s) /dev/dsk/c25t0d1
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Member Timeout is 14.00 seconds.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: Max reformation duration is 17.80 seconds.
+Jun 29 15:27:59 SAPPI01 cmcld[9120]: The maximum # of concurrent local connections to the daemon that will be supported is 1024.
+Jun 29 15:27:59 SAPPI01 cmdisklockd[9123]: Changed to working directory /var/adm/cmcluster/cmdisklockd.
+Jun 29 15:27:59 SAPPI01 cmdisklockd[9123]: cmdisklockd started
+Jun 29 15:27:59 SAPPI01 cmdisklockd[9123]: added device: /dev/vglock:/dev/dsk/c25t0d1
+Jun 29 15:28:00 SAPPI01 cmcld[9120]: Total allocated: 46085864 bytes, used: 3394848 bytes, unused 42691008 bytes
+Jun 29 15:28:00 SAPPI01 cmcld[9120]: Cluster lock disk /dev/vglock:/dev/dsk/c25t0d1 is good
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Initializing
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Executing command: rm -f /var/adm/cmcluster/.cmserviced.*.socket
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Request to perform run service cmlogd
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Request to perform run service cmfileassistd
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Request to perform run service cmlockd
+Jun 29 15:28:00 SAPPI01 cmfileassistd[9134]: Changed to working directory /var/adm/cmcluster/cmfileassistd.
+Jun 29 15:28:00 SAPPI01 cmlockd[9135]: Changed to working directory /var/adm/cmcluster/cmlockd.
+Jun 29 15:28:00 SAPPI01 cmlockd[9135]: Executing command: rm -f /var/adm/cmcluster/.cmlock.*.socket
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Request to perform run service cmnetd
+Jun 29 15:28:00 SAPPI01 cmnetd[9138]: Changed to working directory /var/adm/cmcluster/cmnetd.
+Jun 29 15:28:00 SAPPI01 cmnetd[9138]: Initializing
+Jun 29 15:28:00 SAPPI01 cmnetd[9138]: Executing command: rm -f /var/adm/cmcluster/.cmnetd.*.socket
+Jun 29 15:28:00 SAPPI01 cmnetd[9138]: Auto Failback is enabled.
+Jun 29 15:28:00 SAPPI01 cmserviced[9124]: Request to perform run service cmlvmd
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Membership: membership at 0 is REFORMING (coordinator 1) includes: 1 excludes: 2
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Member SAPPI02 is joining the cluster.
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Resolving quorum with members SAPPI01, SAPPI02
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Quorum satisfied
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Membership: membership at 1 is FORMED (coordinator 1) includes: 1 2 excludes:
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Received clear reply in state clearing
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: 2 nodes have formed a new cluster, sequence #1
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: The new active cluster membership is: SAPPI01(id=1), SAPPI02(id=2)
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Cluster CDB version 10 and node 1 CDB version 10
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Cluster CDB version 10 and node 2 CDB version 10
+Jun 29 15:28:01 SAPPI01 cmlvmd[9141]: Clvmd initialized successfully. 
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Request from node SAPPI01 to start package PIpkg on node SAPPI01.
+Jun 29 15:28:01 SAPPI01 cmcld[9120]: Executing '/etc/cmcluster/pkg/pkg.cntl  start' for package PIpkg, as service PKG*102913.
+Jun 29 15:28:01 SAPPI01 cmserviced[9124]: Request to perform run service PKG*102913
+Jun 29 15:28:02 SAPPI01 LVM[9153]: vgchange -a e vgdata 
+Jun 29 15:28:02 SAPPI01 LVM[9158]: vgchange -a e vglog 
+Jun 29 15:28:05 SAPPI01 syslog: cmrunserv pkg_nfs.mon /etc/cmcluster/pkg/nfs.mon 
+Jun 29 15:28:05 SAPPI01 cmserviced[9124]: Request to perform run service pkg_nfs.mon
+Jun 29 15:28:05 SAPPI01 syslog: cmmodnet -a -i 10.11.51.101 10.11.51.0 
+Jun 29 15:28:05 SAPPI01 cmserviced[9124]: Service PKG*102913 terminated due to an exit(0).
+Jun 29 15:28:05 SAPPI01 cmcld[9120]: Started package PIpkg on node SAPPI01.
+Jun 29 15:38:00 SAPPI01 sshd[9089]: Received disconnect from 10.11.22.226: 11: Disconnect requested by Windows SSH Client.
+Jun 29 15:47:05 SAPPI01 su: + 0 root-orapip
+Jun 29 15:47:54 SAPPI01 su: + 0 root-pipadm
+Jun 29 15:48:39 SAPPI01 SAPPIP_20[12244]: SAP Service SAPPIP_20 successfully started.
+Jun 29 15:49:03 SAPPI01 SAPPIP_00[12824]: SAP Service SAPPIP_00 successfully started.
+Jun 29 15:52:40 SAPPI01 su: + 0 root-orapip
+Jun 29 15:58:30 SAPPI01 su: + 0 root-orapip
+Jun 29 16:04:30 SAPPI01 su: + 0 root-pipadm
+Jun 29 16:10:25 SAPPI01 SAPPIP_11[17852]: SAP Service SAPPIP_11 successfully started.
+Jun 29 16:11:03 SAPPI01 SAPPIP_10[18503]: SAP Service SAPPIP_10 successfully started.
+Jun 29 16:11:26 SAPPI01 SAPPIP_20[19333]: Unable to open trace file sapstartsrv.log. (Error 13 Permission denied) [ntservsserver.cpp 3140]
+Jun 29 16:11:47 SAPPI01 SAPPIP_00[19708]: Unable to open trace file sapstartsrv.log. (Error 13 Permission denied) [ntservsserver.cpp 3140]
+Jun 29 22:57:07 SAPPI01 sshd[27491]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-18722;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 29 22:57:08 SAPPI01 sshd[27491]: Accepted publickey for root from 10.11.22.225 port 18722 ssh2

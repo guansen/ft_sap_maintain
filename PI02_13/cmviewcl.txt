@@ -1,12 +1,12 @@
 
 CLUSTER        STATUS       
-PI_cluster     down         
+PI_cluster     up           
   
   NODE           STATUS       STATE        
-  SAPPI01        down         unknown      
-  SAPPI02        down         unknown      
-    
-UNOWNED_PACKAGES
+  SAPPI01        up           running      
 
     PACKAGE        STATUS           STATE            AUTO_RUN    NODE        
-    PIpkg          down             halted           enabled     unowned     
+    PIpkg          up               running          enabled     SAPPI01     
+  
+  NODE           STATUS       STATE        
+  SAPPI02        up           running      
