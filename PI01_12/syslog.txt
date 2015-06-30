@@ -395,3 +395,10 @@ Jun 29 16:11:26 SAPPI01 SAPPIP_20[19333]: Unable to open trace file sapstartsrv.
 Jun 29 16:11:47 SAPPI01 SAPPIP_00[19708]: Unable to open trace file sapstartsrv.log. (Error 13 Permission denied) [ntservsserver.cpp 3140]
 Jun 29 22:57:07 SAPPI01 sshd[27491]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-18722;Protocol: 2.0;Client: OpenSSH_6.6.1
 Jun 29 22:57:08 SAPPI01 sshd[27491]: Accepted publickey for root from 10.11.22.225 port 18722 ssh2
+Jun 29 22:57:20 SAPPI01 sshd[27491]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 29 22:57:20 SAPPI01 sshd[27530]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-18755;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 29 22:57:21 SAPPI01 sshd[27530]: Accepted publickey for root from 10.11.22.225 port 18755 ssh2
+Jun 29 22:57:21 SAPPI01 sshd[27530]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 30 07:55:47 SAPPI01 sshd[8604]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Jun 30 10:57:09 SAPPI01 sshd[3411]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-28364;Protocol: 2.0;Client: OpenSSH_6.6.1
+Jun 30 10:57:09 SAPPI01 sshd[3411]: Accepted publickey for root from 10.11.22.225 port 28364 ssh2
