@@ -1,7 +1,7 @@
 Tunable:        filecache_max
-Usage:          1627873280
+Usage:          1626370048
 Setting:        2606240235
-Percentage:     62.5
+Percentage:     62.4
 
 Tunable:        maxdsiz
 Usage:          9830400
@@ -69,7 +69,7 @@ Setting:        8192
 Percentage:     1.0
 
 Tunable:        ninode
-Usage:          2374
+Usage:          2375
 Setting:        139264
 Percentage:     1.7
 
