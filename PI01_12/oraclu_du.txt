@@ -1,7 +1,7 @@
 0	/oracle/lost+found
 0	/oracle/PIP/lost+found
 0	/oracle/PIP/oraarch/lost+found
-28333600	/oracle/PIP/oraarch
+28431994	/oracle/PIP/oraarch
 0	/oracle/PIP/origlogA/lost+found
 24736	/oracle/PIP/origlogA/cntrl
 229540	/oracle/PIP/origlogA
@@ -1270,9 +1270,9 @@
 3574	/oracle/PIP/102_64/network/tools/help
 1034	/oracle/PIP/102_64/network/tools/images
 4614	/oracle/PIP/102_64/network/tools
-2996624	/oracle/PIP/102_64/network/log
+2992556	/oracle/PIP/102_64/network/log
 0	/oracle/PIP/102_64/network/trace
-3036640	/oracle/PIP/102_64/network
+3032572	/oracle/PIP/102_64/network
 14	/oracle/PIP/102_64/nls/csscan/sql
 14	/oracle/PIP/102_64/nls/csscan
 994	/oracle/PIP/102_64/nls/data/old
@@ -2221,7 +2221,7 @@
 162	/oracle/PIP/102_64/log/sappi02/client
 162	/oracle/PIP/102_64/log/sappi02
 390	/oracle/PIP/102_64/log
-10383010	/oracle/PIP/102_64
+10378942	/oracle/PIP/102_64
 0	/oracle/PIP/sapdata1/lost+found
 532512	/oracle/PIP/sapdata1/sysaux_1
 15196192	/oracle/PIP/sapdata1/undo_1
@@ -2257,14 +2257,14 @@
 0	/oracle/PIP/.sw/software
 2	/oracle/PIP/.sw
 0	/oracle/PIP/oraflash
-914160	/oracle/PIP/saptrace/background
-429114	/oracle/PIP/saptrace/usertrace
+914166	/oracle/PIP/saptrace/background
+429160	/oracle/PIP/saptrace/usertrace
 0	/oracle/PIP/saptrace/audit
-1343274	/oracle/PIP/saptrace
+1343326	/oracle/PIP/saptrace
 40948	/oracle/PIP/sapbackup
 136	/oracle/PIP/sapcheck
 97282	/oracle/PIP/saparch
-183574428	/oracle/PIP
+183668806	/oracle/PIP
 0	/oracle/client/lost+found
 231164	/oracle/client/10x_64/instantclient_10201
 231166	/oracle/client/10x_64
@@ -5172,4 +5172,4 @@
 1264	/oracle/oraInventory/Contents
 6	/oracle/oraInventory/ContentsXML
 7980	/oracle/oraInventory
-193486948	/oracle
+193581326	/oracle
