@@ -275,3 +275,9 @@ Aug 24 10:54:45 SAPPI01 sshd[10848]: Accepted publickey for root from 10.11.22.2
 Aug 24 10:54:46 SAPPI01 sshd[10848]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Aug 24 22:54:31 SAPPI01 sshd[16596]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-14435;Protocol: 2.0;Client: OpenSSH_6.6.1
 Aug 24 22:54:31 SAPPI01 sshd[16596]: Accepted publickey for root from 10.11.22.225 port 14435 ssh2
+Aug 24 22:54:41 SAPPI01 sshd[16596]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Aug 24 22:54:41 SAPPI01 sshd[16635]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-14472;Protocol: 2.0;Client: OpenSSH_6.6.1
+Aug 24 22:54:41 SAPPI01 sshd[16635]: Accepted publickey for root from 10.11.22.225 port 14472 ssh2
+Aug 24 22:54:42 SAPPI01 sshd[16635]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Aug 25 10:54:31 SAPPI01 sshd[22371]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-28846;Protocol: 2.0;Client: OpenSSH_6.6.1
+Aug 25 10:54:32 SAPPI01 sshd[22371]: Accepted publickey for root from 10.11.22.225 port 28846 ssh2
