@@ -2280,15 +2280,15 @@
 0	/oracle/PID/saptrace/background/core_10699
 0	/oracle/PID/saptrace/background/core_14602
 0	/oracle/PID/saptrace/background/core_3175
-1305552	/oracle/PID/saptrace/background
+1305594	/oracle/PID/saptrace/background
 16981064	/oracle/PID/saptrace/usertrace
 0	/oracle/PID/saptrace/audit
-18286616	/oracle/PID/saptrace
+18286658	/oracle/PID/saptrace
 752	/oracle/PID/sapbackup/PID
 32462	/oracle/PID/sapbackup
 340	/oracle/PID/sapcheck
 5604	/oracle/PID/saparch
-193360452	/oracle/PID
+193360494	/oracle/PID
 54	/oracle/oraInventory/logs/results/db
 62	/oracle/oraInventory/logs/results
 21174	/oracle/oraInventory/logs
@@ -4581,4 +4581,4 @@
 1264	/oracle/oraInventory.bak/Contents
 6	/oracle/oraInventory.bak/ContentsXML
 7978	/oracle/oraInventory.bak
-434020840	/oracle
+434020882	/oracle

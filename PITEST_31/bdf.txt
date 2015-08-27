@@ -1,18 +1,18 @@
 Filesystem          kbytes    used   avail %used Mounted on
-/dev/vg00/lvol3    1048576 1034592   13888   99% /
+/dev/vg00/lvol3    1048576 1034976   13504   99% /
 /dev/vg00/lvol1    1835008  530088 1294784   29% /stand
-/dev/vg00/lvol8    8912896 2009136 6855616   23% /var
+/dev/vg00/lvol8    8912896 2008928 6855824   23% /var
 /dev/vg00/lvol7    10485760 5216264 5228416   50% /usr
 /dev/sapvg/pid_trans
                    20971520 10644393 9682039   52% /usr/sap/trans
-/dev/vg00/piq_sap  10485760 6371820 3857142   62% /usr/sap/PIQ
+/dev/vg00/piq_sap  10485760 6383263 3846414   62% /usr/sap/PIQ
 /dev/vg00/pid_sap  10485760 7242065 3041487   70% /usr/sap/PID
 /dev/vg00/lvol4    5242880 4313376  923216   82% /tmp
 /dev/vg00/piq_sapmnt
                    10485760 3620723 6436107   36% /sapmnt/PIQ
 /dev/vg00/pid_sapmnt
                    10485760 4164924 5925880   41% /sapmnt/PID
-/dev/vg00/oracle   15728640 12895700 2655919   83% /oracle
+/dev/vg00/oracle   15728640 12895721 2655896   83% /oracle
 /dev/vg00/oracle_client
                     327680  233379   88409   73% /oracle/client
 /dev/vg00/piq_piq  6291456 6291456       0  100% /oracle/PIQ
@@ -57,5 +57,5 @@ Filesystem          kbytes    used   avail %used Mounted on
 /dev/sapvg/pid_mirrlogA
                    3145728  105305 2850404    4% /oracle/PID/mirrlogA
 /dev/vg00/lvol6    9437184 5315888 4089120   57% /opt
-/dev/vg00/lvol5     131072  116936   14120   89% /home
+/dev/vg00/lvol5     131072  119152   11920   91% /home
 /dev/sapvg/cd      52428800 49082443 3137280   94% /cdsap
