@@ -7,7 +7,7 @@
 462332	/oracle/client
 0	/oracle/stage/102_64
 0	/oracle/stage
-30013548	/oracle/PID/oraarch
+30111942	/oracle/PID/oraarch
 0	/oracle/PID/origlogA/lost+found
 32352	/oracle/PID/origlogA/cntrl
 237156	/oracle/PID/origlogA
@@ -2280,15 +2280,15 @@
 0	/oracle/PID/saptrace/background/core_10699
 0	/oracle/PID/saptrace/background/core_14602
 0	/oracle/PID/saptrace/background/core_3175
-1305594	/oracle/PID/saptrace/background
+1305628	/oracle/PID/saptrace/background
 16981064	/oracle/PID/saptrace/usertrace
 0	/oracle/PID/saptrace/audit
-18286658	/oracle/PID/saptrace
+18286692	/oracle/PID/saptrace
 752	/oracle/PID/sapbackup/PID
 32462	/oracle/PID/sapbackup
 340	/oracle/PID/sapcheck
 5604	/oracle/PID/saparch
-193360494	/oracle/PID
+193458922	/oracle/PID
 54	/oracle/oraInventory/logs/results/db
 62	/oracle/oraInventory/logs/results
 21174	/oracle/oraInventory/logs
@@ -4581,4 +4581,4 @@
 1264	/oracle/oraInventory.bak/Contents
 6	/oracle/oraInventory.bak/ContentsXML
 7978	/oracle/oraInventory.bak
-434020882	/oracle
+434119310	/oracle
