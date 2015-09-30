@@ -365,3 +365,70 @@ Sep  6 10:29:14 SAPECC02 sshd[29540]: Accepted publickey for root from 10.11.22.
 Sep  6 10:29:14 SAPECC02 sshd[29540]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Sep  6 22:29:07 SAPECC02 sshd[4280]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-19539;Protocol: 2.0;Client: OpenSSH_6.6.1
 Sep  6 22:29:08 SAPECC02 sshd[4280]: Accepted publickey for root from 10.11.22.225 port 19539 ssh2
+Sep  6 22:29:08 SAPECC02 sshd[4280]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Sep  6 22:29:08 SAPECC02 sshd[4299]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-19568;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep  6 22:29:08 SAPECC02 sshd[4299]: Accepted publickey for root from 10.11.22.225 port 19568 ssh2
+Sep  6 22:29:08 SAPECC02 sshd[4299]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Sep 10 07:51:59 SAPECC02 vmunix: 0/0/0/5/0/0/1: Fibre Channel Driver received Link Dead Notification.
+Sep 10 07:51:59 SAPECC02 vmunix: 
+Sep 10 07:51:59 SAPECC02 vmunix: class : tgtpath, instance 7
+Sep 10 07:51:59 SAPECC02 vmunix: Target path (class=tgtpath, instance=7) has gone offline.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe28
+Sep 10 07:51:59 SAPECC02 vmunix: class : tgtpath, instance 8
+Sep 10 07:51:59 SAPECC02 vmunix: Target path (class=tgtpath, instance=8) has gone offline.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe2c
+Sep 10 07:51:59 SAPECC02 vmunix: class : tgtpath, instance 9
+Sep 10 07:51:59 SAPECC02 vmunix: Target path (class=tgtpath, instance=9) has gone offline.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801403cc8b
+Sep 10 07:51:59 SAPECC02 CIM Indication[2011]: Indication (default format):IndicationIdentifier = 31120150910075159, ProviderName = HPUXFCDIndicationProvider, PerceivedSeverity = 7, EventID = 31
+Sep 10 07:52:00 SAPECC02 cmdisklockd[4487]: Still trying to inquire cluster lock disk /dev/dsk/c15t0d3
+Sep 10 07:53:43 SAPECC02 vmunix: class : tgtpath, instance 9
+Sep 10 07:51:59 SAPECC02 vmunix: 
+Sep 10 07:53:43 SAPECC02  above message repeats 3 times
+Sep 10 07:53:43 SAPECC02 vmunix: Target path (class=tgtpath, instance=9) has gone online.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801403cc8b
+Sep 10 07:53:43 SAPECC02 vmunix: 
+Sep 10 07:52:10 SAPECC02 cmdisklockd[4487]: Still trying to inquire cluster lock disk /dev/dsk/c15t0d3
+Sep 10 07:53:43 SAPECC02 vmunix: class : tgtpath, instance 7
+Sep 10 07:53:43 SAPECC02 vmunix: Target path (class=tgtpath, instance=7) has gone online.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe28
+Sep 10 07:53:43 SAPECC02 vmunix: class : tgtpath, instance 8
+Sep 10 07:53:43 SAPECC02 vmunix: Target path (class=tgtpath, instance=8) has gone online.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe2c
+Sep 10 07:53:43 SAPECC02 vmunix: 
+Sep 10 08:02:08 SAPECC02  above message repeats 2 times
+Sep 29 05:18:36 SAPECC02 sshd[26807]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-56218;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 05:18:36 SAPECC02 sshd[26807]: Accepted publickey for root from 10.11.22.226 port 56218 ssh2
+Sep 29 05:18:38 SAPECC02 sshd[26807]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 05:18:38 SAPECC02 sshd[26826]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-56249;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 05:18:38 SAPECC02 sshd[26826]: Accepted publickey for root from 10.11.22.226 port 56249 ssh2
+Sep 29 05:18:38 SAPECC02 sshd[26826]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 06:27:31 SAPECC02 sshd[27274]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4053;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 06:27:31 SAPECC02 sshd[27274]: Accepted publickey for root from 10.11.22.226 port 4053 ssh2
+Sep 29 06:27:32 SAPECC02 sshd[27274]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 06:27:32 SAPECC02 sshd[27293]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4086;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 06:27:33 SAPECC02 sshd[27293]: Accepted publickey for root from 10.11.22.226 port 4086 ssh2
+Sep 29 06:27:33 SAPECC02 sshd[27293]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 18:27:29 SAPECC02 sshd[1884]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8857;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 18:27:30 SAPECC02 sshd[1884]: Accepted publickey for root from 10.11.22.226 port 8857 ssh2
+Sep 29 18:27:30 SAPECC02 sshd[1884]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 18:27:30 SAPECC02 sshd[1903]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8888;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 18:27:30 SAPECC02 sshd[1903]: Accepted publickey for root from 10.11.22.226 port 8888 ssh2
+Sep 29 18:27:31 SAPECC02 sshd[1903]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:07:53 SAPECC02 sshd[6103]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14349;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:07:54 SAPECC02 sshd[6103]: Accepted publickey for root from 10.11.22.226 port 14349 ssh2
+Sep 30 05:07:54 SAPECC02 sshd[6103]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:07:54 SAPECC02 sshd[6122]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14380;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:07:54 SAPECC02 sshd[6122]: Accepted publickey for root from 10.11.22.226 port 14380 ssh2
+Sep 30 05:07:54 SAPECC02 sshd[6122]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:15:31 SAPECC02 sshd[6133]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19072;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:15:32 SAPECC02 sshd[6133]: Accepted publickey for root from 10.11.22.226 port 19072 ssh2
+Sep 30 05:15:32 SAPECC02 sshd[6133]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:15:32 SAPECC02 sshd[6152]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19103;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:15:33 SAPECC02 sshd[6152]: Accepted publickey for root from 10.11.22.226 port 19103 ssh2
+Sep 30 05:15:33 SAPECC02 sshd[6152]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:27:27 SAPECC02 sshd[6604]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2353;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:27:27 SAPECC02 sshd[6604]: Accepted publickey for root from 10.11.22.226 port 2353 ssh2
+Sep 30 06:27:27 SAPECC02 sshd[6604]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:27:28 SAPECC02 sshd[6623]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2384;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:27:28 SAPECC02 sshd[6623]: Accepted publickey for root from 10.11.22.226 port 2384 ssh2
+Sep 30 06:27:28 SAPECC02 sshd[6623]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 16:40:39 SAPECC02 sshd[10403]: SSH: Server;Ltype: Version;Remote: 10.11.12.55-50436;Protocol: 2.0;Client: SecureCRT_6.5.0 (build 380) SecureCRT
+Sep 30 16:40:39 SAPECC02 sshd[10403]: Accepted password for root from 10.11.12.55 port 50436 ssh2
+Sep 30 16:40:47 SAPECC02 sshd[10403]: SSH: Server;LType: Throughput;Remote: 10.11.12.55-50436;IN: 3936;OUT: 408;Duration: 8.0;tPut_in: 494.2;tPut_out: 51.2
+Sep 30 22:27:39 SAPECC02 sshd[12651]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-39147;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 22:27:39 SAPECC02 sshd[12651]: Accepted publickey for root from 10.11.22.225 port 39147 ssh2

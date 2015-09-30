@@ -365,3 +365,67 @@ Sep  6 11:26:13 SAPPI02 sshd[17880]: Accepted publickey for root from 10.11.22.2
 Sep  6 11:26:13 SAPPI02 sshd[17880]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Sep  6 23:26:07 SAPPI02 sshd[21965]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-19745;Protocol: 2.0;Client: OpenSSH_6.6.1
 Sep  6 23:26:08 SAPPI02 sshd[21965]: Accepted publickey for root from 10.11.22.225 port 19745 ssh2
+Sep  6 23:26:09 SAPPI02 sshd[21965]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Sep  6 23:26:09 SAPPI02 sshd[21990]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-19778;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep  6 23:26:09 SAPPI02 sshd[21990]: Accepted publickey for root from 10.11.22.225 port 19778 ssh2
+Sep  6 23:26:10 SAPPI02 sshd[21990]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Sep 10 08:48:57 SAPPI02 cmdisklockd[9193]: Still trying to inquire cluster lock disk /dev/dsk/c15t0d1
+Sep 10 08:49:01 SAPPI02 vmunix: 0/0/0/5/0/0/1: Fibre Channel Driver received Link Dead Notification.
+Sep 10 08:49:01 SAPPI02 vmunix: 
+Sep 10 08:49:01 SAPPI02 vmunix: class : tgtpath, instance 9
+Sep 10 08:49:01 SAPPI02 vmunix: Target path (class=tgtpath, instance=9) has gone offline.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801403cc8b
+Sep 10 08:49:01 SAPPI02 vmunix: class : tgtpath, instance 8
+Sep 10 08:49:01 SAPPI02 vmunix: Target path (class=tgtpath, instance=8) has gone offline.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe2c
+Sep 10 08:49:01 SAPPI02 vmunix: class : tgtpath, instance 7
+Sep 10 08:49:01 SAPPI02 vmunix: Target path (class=tgtpath, instance=7) has gone offline.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe28
+Sep 10 08:49:06 SAPPI02 CIM Indication[2117]: Indication (default format):IndicationIdentifier = 31020150910084902, ProviderName = HPUXFCDIndicationProvider, PerceivedSeverity = 7, EventID = 31
+Sep 10 08:49:08 SAPPI02 cmdisklockd[9193]: Still trying to inquire cluster lock disk /dev/dsk/c15t0d1
+Sep 10 08:50:44 SAPPI02 vmunix: class : tgtpath, instance 9
+Sep 10 08:49:01 SAPPI02 vmunix: 
+Sep 10 08:50:44 SAPPI02  above message repeats 3 times
+Sep 10 08:50:44 SAPPI02 vmunix: Target path (class=tgtpath, instance=9) has gone online.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801403cc8b
+Sep 10 08:50:44 SAPPI02 vmunix: 
+Sep 10 08:50:44 SAPPI02 vmunix: class : tgtpath, instance 7
+Sep 10 08:50:44 SAPPI02 vmunix: Target path (class=tgtpath, instance=7) has gone online.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe28
+Sep 10 08:50:44 SAPPI02 vmunix: class : tgtpath, instance 8
+Sep 10 08:50:44 SAPPI02 vmunix: Target path (class=tgtpath, instance=8) has gone online.  The target path h/w path is 0/0/0/5/0/0/1.0x500143801135fe2c
+Sep 10 08:50:44 SAPPI02 vmunix: 
+Sep 10 08:53:33 SAPPI02  above message repeats 2 times
+Sep 29 06:17:16 SAPPI02 sshd[28447]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-56424;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 06:17:17 SAPPI02 sshd[28447]: Accepted publickey for root from 10.11.22.226 port 56424 ssh2
+Sep 29 06:17:18 SAPPI02 sshd[28447]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 06:17:18 SAPPI02 sshd[28472]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-56453;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 06:17:19 SAPPI02 sshd[28472]: Accepted publickey for root from 10.11.22.226 port 56453 ssh2
+Sep 29 06:17:19 SAPPI02 sshd[28472]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 07:26:05 SAPPI02 sshd[28884]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4235;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 07:26:05 SAPPI02 sshd[28884]: Accepted publickey for root from 10.11.22.226 port 4235 ssh2
+Sep 29 07:26:05 SAPPI02 sshd[28884]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 07:26:05 SAPPI02 sshd[28909]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4264;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 07:26:06 SAPPI02 sshd[28909]: Accepted publickey for root from 10.11.22.226 port 4264 ssh2
+Sep 29 07:26:07 SAPPI02 sshd[28909]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 19:26:09 SAPPI02 sshd[3186]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9039;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 19:26:09 SAPPI02 sshd[3186]: Accepted publickey for root from 10.11.22.226 port 9039 ssh2
+Sep 29 19:26:11 SAPPI02 sshd[3186]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 19:26:11 SAPPI02 sshd[3211]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-9072;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 19:26:11 SAPPI02 sshd[3211]: Accepted publickey for root from 10.11.22.226 port 9072 ssh2
+Sep 29 19:26:11 SAPPI02 sshd[3211]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:06:36 SAPPI02 sshd[7022]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14531;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:06:36 SAPPI02 sshd[7022]: Accepted publickey for root from 10.11.22.226 port 14531 ssh2
+Sep 30 06:06:37 SAPPI02 sshd[7022]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:06:37 SAPPI02 sshd[7047]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14560;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:06:37 SAPPI02 sshd[7047]: Accepted publickey for root from 10.11.22.226 port 14560 ssh2
+Sep 30 06:06:38 SAPPI02 sshd[7047]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:14:04 SAPPI02 sshd[7053]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19246;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:14:05 SAPPI02 sshd[7053]: Accepted publickey for root from 10.11.22.226 port 19246 ssh2
+Sep 30 06:14:06 SAPPI02 sshd[7053]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:14:06 SAPPI02 sshd[7078]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19273;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:14:06 SAPPI02 sshd[7078]: Accepted publickey for root from 10.11.22.226 port 19273 ssh2
+Sep 30 06:14:06 SAPPI02 sshd[7078]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 07:26:05 SAPPI02 sshd[7491]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2533;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 07:26:05 SAPPI02 sshd[7491]: Accepted publickey for root from 10.11.22.226 port 2533 ssh2
+Sep 30 07:26:06 SAPPI02 sshd[7491]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 07:26:06 SAPPI02 sshd[7516]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2564;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 07:26:06 SAPPI02 sshd[7516]: Accepted publickey for root from 10.11.22.226 port 2564 ssh2
+Sep 30 07:26:07 SAPPI02 sshd[7516]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 23:26:26 SAPPI02 sshd[12981]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-39326;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 23:26:27 SAPPI02 sshd[12981]: Accepted publickey for root from 10.11.22.225 port 39326 ssh2

@@ -365,3 +365,112 @@ Sep  6 10:54:07 SAPPI01 sshd[10975]: Accepted publickey for root from 10.11.22.2
 Sep  6 10:54:08 SAPPI01 sshd[10975]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Sep  6 22:53:51 SAPPI01 sshd[16650]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-19619;Protocol: 2.0;Client: OpenSSH_6.6.1
 Sep  6 22:53:51 SAPPI01 sshd[16650]: Accepted publickey for root from 10.11.22.225 port 19619 ssh2
+Sep  6 22:54:01 SAPPI01 sshd[16650]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Sep  6 22:54:01 SAPPI01 sshd[16689]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-19657;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep  6 22:54:02 SAPPI01 sshd[16689]: Accepted publickey for root from 10.11.22.225 port 19657 ssh2
+Sep  6 22:54:02 SAPPI01 sshd[16689]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Sep 10 08:16:38 SAPPI01 cmdisklockd[9123]: Still trying to inquire cluster lock disk /dev/dsk/c25t0d1
+Sep 10 08:16:38 SAPPI01 vmunix: LVM: WARNING: VG 64 0x020000: LV 6: Some I/O requests to this LV are waiting
+Sep 10 08:16:38 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:38 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:42 SAPPI01 vmunix: LVM: WARNING: VG 64 0x010000: LV 2: Some I/O requests to this LV are waiting
+Sep 10 08:16:46 SAPPI01 vmunix: 0/0/0/5/0/0/0: Fibre Channel Driver received Link Dead Notification.
+Sep 10 08:16:46 SAPPI01 vmunix: 
+Sep 10 08:16:42 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:46 SAPPI01 vmunix: LVM: WARNING: VG 64 0x020000: LV 13: Some I/O requests to this LV are waiting
+Sep 10 08:16:42 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:46 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:46 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:46 SAPPI01 vmunix: LVM: WARNING: VG 64 0x020000: LV 11: Some I/O requests to this LV are waiting
+Sep 10 08:16:46 SAPPI01 vmunix: class : tgtpath, instance 9
+Sep 10 08:16:46 SAPPI01 vmunix: Target path (class=tgtpath, instance=9) has gone offline.  The target path h/w path is 0/0/0/5/0/0/0.0x500143801403cc8b
+Sep 10 08:16:46 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:46 SAPPI01 vmunix: 
+Sep 10 08:16:46 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:46 SAPPI01 vmunix: class : tgtpath, instance 8
+Sep 10 08:16:46 SAPPI01 vmunix: Target path (class=tgtpath, instance=8) has gone offline.  The target path h/w path is 0/0/0/5/0/0/0.0x500143801135fe2c
+Sep 10 08:16:46 SAPPI01 vmunix: class : tgtpath, instance 7
+Sep 10 08:16:46 SAPPI01 vmunix: Target path (class=tgtpath, instance=7) has gone offline.  The target path h/w path is 0/0/0/5/0/0/0.0x500143801135fe28
+Sep 10 08:16:46 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x010000: LV 2: All I/O requests to this LV that were
+Sep 10 08:16:46 SAPPI01 vmunix:  	waiting indefinitely for an unavailable PV have now completed.
+Sep 10 08:16:46 SAPPI01 vmunix: LVM: WARNING: VG 64 0x020000: LV 4: Some I/O requests to this LV are waiting
+Sep 10 08:16:46 SAPPI01 vmunix: 
+Sep 10 08:16:47 SAPPI01  above message repeats 2 times
+Sep 10 08:16:46 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:46 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:49 SAPPI01 cmdisklockd[9123]: Still trying to inquire cluster lock disk /dev/dsk/c25t0d1
+Sep 10 08:16:51 SAPPI01 CIM Indication[2102]: Indication (default format):IndicationIdentifier = 31020150910081647, ProviderName = HPUXFCDIndicationProvider, PerceivedSeverity = 7, EventID = 31
+Sep 10 08:16:54 SAPPI01 vmunix: LVM: Performed a switch for Lun ID = 0 (pv = 0xe000000360ba6000), from raw device 0x1f190200 (with priority: 0, and current flags: 0x40) to raw device 0x1f170200 (with priority: 1, and current flags: 0x0).
+Sep 10 08:16:54 SAPPI01 vmunix: LVM: WARNING: VG 64 0x020000: LV 3: Some I/O requests to this LV are waiting
+Sep 10 08:16:54 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:54 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:54 SAPPI01 vmunix: LVM: VG 64 0x020000: Lost quorum.
+Sep 10 08:16:54 SAPPI01 vmunix: This may block configuration changes and I/Os. In order to reestablish quorum at least 1 of the following PVs (represented by current link) must become available:
+Sep 10 08:16:54 SAPPI01 vmunix: <31 0x170200> 
+Sep 10 08:16:54 SAPPI01 vmunix: LVM: VG 64 0x020000: PVLink 31 0x190200 Failed! The PV is not accessible.
+Sep 10 08:16:56 SAPPI01 vmunix: LVM: WARNING: VG 64 0x020000: LV 12: Some I/O requests to this LV are waiting
+Sep 10 08:16:56 SAPPI01 vmunix: 	indefinitely for an unavailable PV. These requests will be queued until
+Sep 10 08:16:56 SAPPI01 vmunix:  	the PV becomes available (or a timeout is specified for the LV).
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: Performed a switch for Lun ID = 0 (pv = 0xe000000360ba6000), from raw device 0x1f170200 (with priority: 1, and current flags: 0x0) to raw device 0x1f190200 (with priority: 0, and current flags: 0x80).
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: VG 64 0x020000: Reestablished quorum.
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: VG 64 0x020000: PVLink 31 0x190200 Recovered.
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x020000: LV 6: All I/O requests to this LV that were
+Sep 10 08:16:59 SAPPI01 vmunix:  	waiting indefinitely for an unavailable PV have now completed.
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x020000: LV 3: All I/O requests to this LV that were
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x020000: LV 13: All I/O requests to this LV that were
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x020000: LV 12: All I/O requests to this LV that were
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x020000: LV 11: All I/O requests to this LV that were
+Sep 10 08:16:59 SAPPI01 vmunix: LVM: NOTICE: VG 64 0x020000: LV 4: All I/O requests to this LV that were
+Sep 10 08:17:00 SAPPI01 cmdisklockd[9123]: Still trying to inquire cluster lock disk /dev/dsk/c25t0d1
+Sep 10 08:17:00 SAPPI01 cmdisklockd[9123]: WARNING: Cluster lock disk /dev/dsk/c25t0d1 has failed: I/O error. Until it is fixed, a single failure could cause all nodes in the cluster to crash.
+Sep 10 08:17:00 SAPPI01 cmcld[9120]: Cluster lock disk /dev/vglock:/dev/dsk/c25t0d1 is bad
+Sep 10 08:16:59 SAPPI01 vmunix:  	waiting indefinitely for an unavailable PV have now completed.
+Sep 10 08:18:30 SAPPI01  above message repeats 5 times
+Sep 10 08:18:30 SAPPI01 vmunix: class : tgtpath, instance 7
+Sep 10 08:18:30 SAPPI01 vmunix: class : tgtpath, instance 9
+Sep 10 08:18:30 SAPPI01 vmunix: class : tgtpath, instance 8
+Sep 10 08:18:30 SAPPI01 vmunix: Target path (class=tgtpath, instance=7) has gone online.  The target path h/w path is 0/0/0/5/0/0/0.0x500143801135fe28
+Sep 10 08:18:30 SAPPI01 vmunix: 
+Sep 10 08:18:30 SAPPI01 vmunix: Target path (class=tgtpath, instance=9) has gone online.  The target path h/w path is 0/0/0/5/0/0/0.0x500143801403cc8b
+Sep 10 08:18:30 SAPPI01 vmunix: Target path (class=tgtpath, instance=8) has gone online.  The target path h/w path is 0/0/0/5/0/0/0.0x500143801135fe2c
+Sep 10 08:19:31 SAPPI01 cmcld[9120]: Cluster lock disk /dev/vglock:/dev/dsk/c25t0d1 is good
+Sep 10 08:18:30 SAPPI01 vmunix: 
+Sep 10 08:25:13 SAPPI01  above message repeats 2 times
+Sep 29 05:43:50 SAPPI01 sshd[8500]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-56300;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 05:43:51 SAPPI01 sshd[8500]: Accepted publickey for root from 10.11.22.226 port 56300 ssh2
+Sep 29 05:44:03 SAPPI01 sshd[8500]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 05:44:04 SAPPI01 sshd[8539]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-56333;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 05:44:04 SAPPI01 sshd[8539]: Accepted publickey for root from 10.11.22.226 port 56333 ssh2
+Sep 29 05:44:05 SAPPI01 sshd[8539]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 06:52:45 SAPPI01 sshd[14809]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4135;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 06:52:46 SAPPI01 sshd[14809]: Accepted publickey for root from 10.11.22.226 port 4135 ssh2
+Sep 29 06:52:52 SAPPI01 sshd[14809]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 06:52:52 SAPPI01 sshd[14848]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-4170;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 06:52:52 SAPPI01 sshd[14848]: Accepted publickey for root from 10.11.22.226 port 4170 ssh2
+Sep 29 06:52:53 SAPPI01 sshd[14848]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 18:52:43 SAPPI01 sshd[20587]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8937;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 18:52:44 SAPPI01 sshd[20587]: Accepted publickey for root from 10.11.22.226 port 8937 ssh2
+Sep 29 18:52:55 SAPPI01 sshd[20587]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 29 18:52:55 SAPPI01 sshd[20626]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-8974;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 29 18:52:55 SAPPI01 sshd[20626]: Accepted publickey for root from 10.11.22.226 port 8974 ssh2
+Sep 29 18:52:56 SAPPI01 sshd[20626]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:33:08 SAPPI01 sshd[19125]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14429;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:33:08 SAPPI01 sshd[19125]: Accepted publickey for root from 10.11.22.226 port 14429 ssh2
+Sep 30 05:33:20 SAPPI01 sshd[19125]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:33:20 SAPPI01 sshd[19164]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-14464;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:33:21 SAPPI01 sshd[19164]: Accepted publickey for root from 10.11.22.226 port 14464 ssh2
+Sep 30 05:33:21 SAPPI01 sshd[19164]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:40:46 SAPPI01 sshd[19872]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19152;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:40:46 SAPPI01 sshd[19872]: Accepted publickey for root from 10.11.22.226 port 19152 ssh2
+Sep 30 05:40:49 SAPPI01 sshd[19872]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 05:40:49 SAPPI01 sshd[19911]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-19183;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 05:40:49 SAPPI01 sshd[19911]: Accepted publickey for root from 10.11.22.226 port 19183 ssh2
+Sep 30 05:40:50 SAPPI01 sshd[19911]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:52:42 SAPPI01 sshd[26459]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2433;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:52:42 SAPPI01 sshd[26459]: Accepted publickey for root from 10.11.22.226 port 2433 ssh2
+Sep 30 06:52:49 SAPPI01 sshd[26459]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 06:52:49 SAPPI01 sshd[26489]: SSH: Server;Ltype: Version;Remote: 10.11.22.226-2468;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 06:52:49 SAPPI01 sshd[26489]: Accepted publickey for root from 10.11.22.226 port 2468 ssh2
+Sep 30 06:52:50 SAPPI01 sshd[26489]: Received disconnect from 10.11.22.226: 11: disconnected by user
+Sep 30 22:52:55 SAPPI01 sshd[24374]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-39227;Protocol: 2.0;Client: OpenSSH_6.6.1
+Sep 30 22:52:55 SAPPI01 sshd[24374]: Accepted publickey for root from 10.11.22.225 port 39227 ssh2
