@@ -1,1 +1,1 @@
- 10:52pm  up 100 days, 14:38,  0 users,  load average: 0.01, 0.01, 0.01
+ 10:52am  up 101 days,  2:38,  0 users,  load average: 0.01, 0.01, 0.01
