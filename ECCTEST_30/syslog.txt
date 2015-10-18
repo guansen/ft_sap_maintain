@@ -197,3 +197,9 @@ Oct 17 22:19:05 ferrtdev sshd[14452]: Accepted publickey for root from 10.11.22.
 Oct 17 22:19:06 ferrtdev sshd[14452]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Oct 18 10:18:58 ferrtdev sshd[18905]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-43815;Protocol: 2.0;Client: OpenSSH_6.6.1
 Oct 18 10:18:58 ferrtdev sshd[18905]: Accepted publickey for root from 10.11.22.225 port 43815 ssh2
+Oct 18 10:19:07 ferrtdev sshd[18905]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Oct 18 10:19:07 ferrtdev sshd[18921]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-43848;Protocol: 2.0;Client: OpenSSH_6.6.1
+Oct 18 10:19:07 ferrtdev sshd[18921]: Accepted publickey for root from 10.11.22.225 port 43848 ssh2
+Oct 18 10:19:08 ferrtdev sshd[18921]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Oct 18 22:18:54 ferrtdev sshd[23220]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-45022;Protocol: 2.0;Client: OpenSSH_6.6.1
+Oct 18 22:18:54 ferrtdev sshd[23220]: Accepted publickey for root from 10.11.22.225 port 45022 ssh2
