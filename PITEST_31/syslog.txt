@@ -83,3 +83,9 @@ Nov  8 11:00:25 PI-TEST sshd[5495]: Accepted publickey for root from 10.11.22.22
 Nov  8 11:00:25 PI-TEST sshd[5495]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Nov  8 23:00:11 PI-TEST sshd[10954]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-17281;Protocol: 2.0;Client: OpenSSH_6.6.1
 Nov  8 23:00:11 PI-TEST sshd[10954]: Accepted publickey for root from 10.11.22.225 port 17281 ssh2
+Nov  8 23:00:22 PI-TEST sshd[10954]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Nov  8 23:00:22 PI-TEST sshd[10970]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-17320;Protocol: 2.0;Client: OpenSSH_6.6.1
+Nov  8 23:00:22 PI-TEST sshd[10970]: Accepted publickey for root from 10.11.22.225 port 17320 ssh2
+Nov  8 23:00:23 PI-TEST sshd[10970]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Nov  9 11:00:13 PI-TEST sshd[16402]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-27299;Protocol: 2.0;Client: OpenSSH_6.6.1
+Nov  9 11:00:14 PI-TEST sshd[16402]: Accepted publickey for root from 10.11.22.225 port 27299 ssh2
