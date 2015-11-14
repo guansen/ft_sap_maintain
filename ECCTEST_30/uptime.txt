@@ -1,1 +1,1 @@
- 10:17pm  up 454 days,  9:42,  0 users,  load average: 0.26, 0.26, 0.26
+ 10:17am  up 454 days, 21:42,  0 users,  load average: 0.23, 0.23, 0.23
