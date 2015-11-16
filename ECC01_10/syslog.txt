@@ -173,3 +173,13 @@ Nov 15 22:55:55 SAPECC01 sshd[22977]: Accepted publickey for root from 10.11.22.
 Nov 15 22:55:56 SAPECC01 sshd[22977]: Received disconnect from 10.11.22.225: 11: disconnected by user
 Nov 16 10:55:51 SAPECC01 sshd[29627]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-37134;Protocol: 2.0;Client: OpenSSH_6.6.1
 Nov 16 10:55:51 SAPECC01 sshd[29627]: Accepted publickey for root from 10.11.22.225 port 37134 ssh2
+Nov 16 10:55:55 SAPECC01 sshd[29627]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Nov 16 10:55:55 SAPECC01 sshd[29660]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-37169;Protocol: 2.0;Client: OpenSSH_6.6.1
+Nov 16 10:55:55 SAPECC01 sshd[29660]: Accepted publickey for root from 10.11.22.225 port 37169 ssh2
+Nov 16 10:55:56 SAPECC01 sshd[29660]: Received disconnect from 10.11.22.225: 11: disconnected by user
+Nov 16 12:25:06 SAPECC01 sshd[8030]: SSH: Server;Ltype: Version;Remote: 10.11.12.55-65446;Protocol: 2.0;Client: SecureCRT_7.0.0 (x64 build 326) SecureCRT
+Nov 16 12:25:10 SAPECC01 sshd[8030]: Accepted password for root from 10.11.12.55 port 65446 ssh2
+Nov 16 12:26:25 SAPECC01 su: + 0 root-oraftp
+Nov 16 12:28:27 SAPECC01 sshd[8030]: SSH: Server;LType: Throughput;Remote: 10.11.12.55-65446;IN: 39280;OUT: 7984;Duration: 197.2;tPut_in: 199.2;tPut_out: 40.5
+Nov 16 22:55:49 SAPECC01 sshd[6676]: SSH: Server;Ltype: Version;Remote: 10.11.22.225-47237;Protocol: 2.0;Client: OpenSSH_6.6.1
+Nov 16 22:55:49 SAPECC01 sshd[6676]: Accepted publickey for root from 10.11.22.225 port 47237 ssh2
