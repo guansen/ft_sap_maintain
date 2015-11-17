@@ -1,1 +1,1 @@
- 11:00pm  up 465 days,  7:03,  1 user,  load average: 0.48, 0.48, 0.48
+ 11:00am  up 465 days, 19:03,  1 user,  load average: 0.50, 0.50, 0.49
